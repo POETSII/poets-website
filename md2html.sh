@@ -12,4 +12,5 @@ do
 	f2=${f2/md/htm}
   	echo "Converting $f -> $f2..."
 	pandoc $f --template $TEMPLATE -o $f2
+	dos2unix $f2
  done

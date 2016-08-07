@@ -1,3 +1,5 @@
+% Home
+
 ## Home Page
 
 Hello World!
