@@ -18,11 +18,11 @@ function init() {
 
 	scene = new THREE.Scene();
 
-	camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 10000)
+	camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 1, 10000)
 
 	camera.position.z = 70;
 
-	var geometry1 = new THREE.TorusGeometry(50, 25, 50, 100);
+	var geometry1 = new THREE.TorusGeometry(50, 20, 75, 100);
 
 	var vertices = geometry1.vertices;
 
@@ -54,12 +54,14 @@ function init() {
 
 	geometry.addAttribute('size', new THREE.BufferAttribute(sizes, 1));
 
-	var material4 = new THREE.PointCloudMaterial({
-		  color: 0xff0000,
+    // Using 'poets & dreamers' colour :)
+    // http://www.colourlovers.com/color/A1BEE6/poets_dreamers
+	var material4 = new THREE.PointsMaterial({
+		  color: 0xA1BEE6,
 	});
 
     var material6 = new THREE.MeshBasicMaterial({
-		color: 0xffdddd,
+		color: 0xA1BEE6,
 		wireframe: true,
 	});
 
@@ -104,11 +106,13 @@ function animate() {
 
 function render() {
 
-	particles.rotation.x += 0.001;
-	particles.rotation.y += 0.002;
+    var speed = 2.0;
 
-	torus.rotation.x += 0.001;
-	torus.rotation.y += 0.002;
+	particles.rotation.x += 0.0001 * speed;
+	particles.rotation.y += 0.0002 * speed;
+
+	torus.rotation.x += 0.0001 * speed;
+	torus.rotation.y += 0.0002 * speed;
 
 	// particles.rotation.x = 20;
 	// particles.rotation.y = 20;
