@@ -1,4 +1,4 @@
-DirectoryIndex html/home.htm
+DirectoryIndex html/index.htm
 
 RewriteEngine on
 
