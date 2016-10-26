@@ -1,3 +1,3 @@
 % Downloads
 
-Coming soon.
+There are currently no items to download.
