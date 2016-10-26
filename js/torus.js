@@ -38,11 +38,11 @@ function init() {
 
 	for (var i = 0, l = vertices.length; i < l; i ++) {
 
-		vertex = vertices[ i ];
+		vertex = vertices[i];
 
 		vertex.toArray(positions, i * 3);
 
-		sizes[ i ] = PARTICLE_SIZE * 0.5;
+		sizes[i] = PARTICLE_SIZE * 0.5;
 
 	}
 
@@ -54,14 +54,14 @@ function init() {
 
 	geometry.addAttribute('size', new THREE.BufferAttribute(sizes, 1));
 
-    // Using 'poets & dreamers' colour :)
-    // http://www.colourlovers.com/color/A1BEE6/poets_dreamers
+	// Using 'poets & dreamers' colour :)
+	// http://www.colourlovers.com/color/A1BEE6/poets_dreamers
 	var material4 = new THREE.PointsMaterial({
-		  color: 0xA1BEE6,
+		  color: 0x64B5F6,
 	});
 
-    var material6 = new THREE.MeshBasicMaterial({
-		color: 0xA1BEE6,
+	var material6 = new THREE.MeshBasicMaterial({
+		color: 0x64B5F6,
 		wireframe: true,
 	});
 
@@ -106,12 +106,12 @@ function animate() {
 
 function render() {
 
-    var speed = 2.0;
+	var speed = 10.0;
 
-	particles.rotation.x += 0.0001 * speed;
+	particles.rotation.x += 0.0003 * speed;
 	particles.rotation.y += 0.0002 * speed;
 
-	torus.rotation.x += 0.0001 * speed;
+	torus.rotation.x += 0.0003 * speed;
 	torus.rotation.y += 0.0002 * speed;
 
 	// particles.rotation.x = 20;

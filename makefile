@@ -2,7 +2,7 @@ build: html
 
 publish: html renameVirtualLink
 
-html: markdown/*
+html: markdown/* template/template.htm
 	./md2html.sh
 
 clean:

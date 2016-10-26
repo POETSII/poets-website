@@ -1,3 +1,3 @@
-% Details
+% Contact
 
 Coming soon.

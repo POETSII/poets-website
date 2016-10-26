@@ -1,3 +1,3 @@
-% Details
+% Research
 
 Coming soon.

@@ -1,3 +1,3 @@
-% Details
+% About
 
 Coming soon.

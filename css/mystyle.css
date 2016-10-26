@@ -1,4 +1,48 @@
-body {
-	font-family: Helvetica;
-	padding: 20px;
+.fancy {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.master {
+	text-align: center;
+	border-top: solid rgba(0, 0, 0, 0.1) 2px;
+	border-bottom: solid rgba(0, 0, 0, 0.1) 2px;
+	width: 100%;
+	font-size: 24pt;
+	display: block;
+	margin: auto;
+	vertical-align: middle;
+}
+
+.header {
+	padding-bottom: 10pt;
+	margin-bottom: 40pt;
+	background-color: #fafafa;
+}
+
+.banner {
+	background-color: rgba(255, 255, 255, 0.7);
+	display: table-cell;
+	height: 250pt;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.banner h1 {
+	display: inline-block;
+}
+
+.banner hr {
+	opacity: 50%;
+	border-color: rgba(0, 0, 0, 0.1);
+}
+
+.text, .text p {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    width:600pt;
+    font-size: 14pt;
+    line-height: 200%;
 }

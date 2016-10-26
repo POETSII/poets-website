@@ -1,3 +1,3 @@
-% Details
+% Partners
 
 Coming soon.

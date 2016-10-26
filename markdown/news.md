@@ -1,3 +1,3 @@
-% Details
+% News
 
 Coming soon.

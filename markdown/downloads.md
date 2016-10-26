@@ -1,3 +1,3 @@
-% Details
+% Downloads
 
 Coming soon.
