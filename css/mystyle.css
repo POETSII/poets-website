@@ -46,3 +46,13 @@
     font-size: 12pt;
     line-height: 200%;
 }
+
+.partners, .partners p {
+	display: block;
+	text-align: center;
+}
+
+.partners img {
+	width: 200pt;
+	margin:15pt 25pt 15pt 25pt;
+}
