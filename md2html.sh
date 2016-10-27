@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# uses pandoc to convert all md files in ./mardown to html files in ./html
+# uses pandoc to convert all md files in ./markdown to html files in ./html
 
 TEMPLATE=template/template.htm
 
