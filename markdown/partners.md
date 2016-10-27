@@ -7,4 +7,6 @@
 <br/>
 <img src="../img/Imperial_College_London_Logo.svg" width="250pt" style="margin:15pt 25pt 15pt 25pt"/>
 <img src="../img/Newcastle_University_Logo.svg" width="250pt" style="margin:15pt 25pt 15pt 25pt"/>
+<h4 class="fancy">Funded by</h3>
+<img src="../img/EPSRC_Logo.svg" width="250pt" style="margin:15pt 25pt 15pt 25pt"/>
 </center>
