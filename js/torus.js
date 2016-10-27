@@ -57,11 +57,11 @@ function init() {
 	// Using 'poets & dreamers' colour :)
 	// http://www.colourlovers.com/color/A1BEE6/poets_dreamers
 	var material4 = new THREE.PointsMaterial({
-		  color: 0x64B5F6,
+		  color: 0xA1BEE6,
 	});
 
 	var material6 = new THREE.MeshBasicMaterial({
-		color: 0x64B5F6,
+		color: 0xA1BEE6,
 		wireframe: true,
 	});
 
@@ -106,7 +106,7 @@ function animate() {
 
 function render() {
 
-	var speed = 10.0;
+	var speed = 3.0;
 
 	particles.rotation.x += 0.0003 * speed;
 	particles.rotation.y += 0.0002 * speed;
