@@ -5,17 +5,17 @@
 
 #### Academic partners
 
-![][southampton_logo]
-![][cambridge_logo]
+[![University of Southampton][southampton_logo]](https://www.southampton.ac.uk/)
+[![University of Cambridge][cambridge_logo]](https://www.cam.ac.uk/)
 
-![][icl_logo]
-![][newcastle_logo]
+[![Imperial College London][icl_logo]](https://www.imperial.ac.uk/)
+[![Newcastle University][newcastle_logo]](http://ncl.ac.uk/)
 
 #### Funded by
 
 <!-- TODO: reduce size of EPSRC logo -->
 
-![][epsrc_logo]
+[![EPSRC][epsrc_logo]](https://www.epsrc.ac.uk/)
 
 </center>
 </div>
