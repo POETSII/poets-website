@@ -11,6 +11,9 @@
 [![Imperial College London][icl_logo]](https://www.imperial.ac.uk/)
 [![Newcastle University][newcastle_logo]](http://ncl.ac.uk/)
 
+#### Industrial partners
+[![ARM][arm_logo]](https://www.arm.com/)
+
 #### Funded by
 
 <!-- TODO: reduce size of EPSRC logo -->
@@ -24,4 +27,5 @@
 [newcastle_logo]: ../img/Newcastle_University_Logo.svg
 [cambridge_logo]: ../img/University_of_Cambridge_logo.svg
 [icl_logo]: ../img/Imperial_College_London_Logo.svg
+[arm_logo]: ../img/ARM_Logo.svg
 [epsrc_logo]: ../img/EPSRC_Logo.svg
