@@ -17,12 +17,20 @@
 	text-align: center;
 }
 
+.logo a {
+	text-decoration: none;
+}
+
 .logo a:hover {
 	text-decoration: none;
 }
 
+.logo a:visited {
+	text-decoration: none;
+}
+
 .logo img {
-	width: 80pt;
+	width: 150pt;
 	margin: 15pt 25pt 15pt 25pt;
 }
 
