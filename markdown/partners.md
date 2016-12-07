@@ -9,6 +9,8 @@
 
 [![Newcastle University][newcastle_logo]](http://ncl.ac.uk/) [![University of Southampton][southampton_logo]](https://www.southampton.ac.uk/)
 
+<hr/>
+
 <!-- TODO: switch to SVG logos, erase JPG's from git history -->
 #### Industrial partners
 
@@ -19,6 +21,8 @@
 [![Imagination Technologies][img_logo]](https://imgtec.com/) [![Maxeler Technologies][maxeler_logo]](http://www.maxeler.com/)
 
 [![National Microelectronics Institute][nmi_logo]](https://nmi.org.uk) [![Numerical Algorithms Group][nag_logo]](https://www.nag.co.uk/)
+
+<hr/>
 
 #### Funded by
 
