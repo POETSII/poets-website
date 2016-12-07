@@ -16,7 +16,7 @@
 
 [![ARM][arm_logo]](https://www.arm.com/) [![Culham Centre for Fusion Energy][ccfe_logo]](http://www.ccfe.ac.uk/)
 
-[![e-Therapeutics][etx_logo]](http://www.etherapeutics.co.uk/)
+[![e-Therapeutics][etx_logo]](http://www.etherapeutics.co.uk/) [![The Chinese University of Hong Kong][cuhk_logo]](http://www.med.cuhk.edu.hk/)
 
 #### Funded by
 
@@ -34,4 +34,5 @@
 [arm_logo]: ../img/ARM_Logo.svg
 [ccfe_logo]: ../img/CCFE_Logo.jpg
 [etx_logo]: ../img/ETX_Logo.jpg
+[cuhk_logo]: ../img/CUHK_Logo.svg
 [epsrc_logo]: ../img/EPSRC_Logo.svg
