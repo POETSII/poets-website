@@ -12,7 +12,7 @@
 [![Newcastle University][newcastle_logo]](http://ncl.ac.uk/)
 
 #### Industrial partners
-[![ARM][arm_logo]](https://www.arm.com/)
+[![ARM][arm_logo]](https://www.arm.com/) [![Culham Centre for Fusion Energy][ccfe_logo]](http://www.ccfe.ac.uk/)
 
 #### Funded by
 
@@ -28,4 +28,5 @@
 [cambridge_logo]: ../img/University_of_Cambridge_logo.svg
 [icl_logo]: ../img/Imperial_College_London_Logo.svg
 [arm_logo]: ../img/ARM_Logo.svg
+[ccfe_logo]: ../img/CCFE_Logo.jpg
 [epsrc_logo]: ../img/EPSRC_Logo.svg
