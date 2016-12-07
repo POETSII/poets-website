@@ -14,6 +14,8 @@
 #### Industrial partners
 [![ARM][arm_logo]](https://www.arm.com/) [![Culham Centre for Fusion Energy][ccfe_logo]](http://www.ccfe.ac.uk/)
 
+[![e-Therapeutics][etx_logo]](http://www.etherapeutics.co.uk/)
+
 #### Funded by
 
 <!-- TODO: reduce size of EPSRC logo -->
@@ -29,4 +31,5 @@
 [icl_logo]: ../img/Imperial_College_London_Logo.svg
 [arm_logo]: ../img/ARM_Logo.svg
 [ccfe_logo]: ../img/CCFE_Logo.jpg
+[etx_logo]: ../img/ETX_Logo.jpg
 [epsrc_logo]: ../img/EPSRC_Logo.svg
