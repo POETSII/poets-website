@@ -1,19 +1,19 @@
 % About
 
 <center>
-POETS (Partial Ordered Event Triggered Systems) technology is based on the
+<p>POETS (Partial Ordered Event Triggered Systems) technology is based on the
 idea of an extremely large number of small cores, embedded in a fast,
 hardware, parallel communications infrastructure - _the core mesh_. Inter-core
 communication is effected by small, fixed size, hardware data packets (a few
-bytes) - aka _messages_.
+bytes) - aka _messages_.</p>
 
-The POETS project describes research to investigate and prototype a software
+<p>The POETS project describes research to investigate and prototype a software
 methodology and associated hardware platform to realise the potential of this
-architecture.
+architecture.</p>
 
-The physical implementation of such a system imposes a fixed and finite
+<p>The physical implementation of such a system imposes a fixed and finite
 topology on the core graph, but a thin (hardware) layer on top of the cores
 allows the user to virtualise an arbitrary connectivity graph on top of the
 physical one. Once this is done, the mapping of problem domain to processor
-mesh follows naturally.
+mesh follows naturally.</p>
 </center>
