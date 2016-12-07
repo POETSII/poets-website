@@ -56,3 +56,9 @@
 	width: 200pt;
 	margin:15pt 25pt 15pt 25pt;
 }
+
+.parners hr {
+	width: 500pt;
+	opacity: 50%;
+	border-color: rgba(0, 0, 0, 0.1);
+}
