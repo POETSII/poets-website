@@ -18,7 +18,7 @@
 
 [![e-Therapeutics][etx_logo]](http://www.etherapeutics.co.uk/) [![The Chinese University of Hong Kong][cuhk_logo]](http://www.med.cuhk.edu.hk/)
 
-[![Imagination Technologies][img_logo]](https://imgtec.com/)
+[![Imagination Technologies][img_logo]](https://imgtec.com/) [![Maxeler Technologies][maxeler_logo]](http://www.maxeler.com/)
 
 #### Funded by
 
@@ -38,4 +38,5 @@
 [etx_logo]: ../img/ETX_Logo.jpg
 [cuhk_logo]: ../img/CUHK_Logo.svg
 [img_logo]: ../img/IMG_Logo.jpg
+[maxeler_logo]: ../img/Maxeler_Logo.png
 [epsrc_logo]: ../img/EPSRC_Logo.svg
