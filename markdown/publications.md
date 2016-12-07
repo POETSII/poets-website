@@ -1,3 +1,5 @@
 % Publications
 
-Coming soon.
+<center>
+<p>Coming soon.</p>
+</center>
