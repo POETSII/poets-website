@@ -18,6 +18,8 @@
 
 [![e-Therapeutics][etx_logo]](http://www.etherapeutics.co.uk/) [![The Chinese University of Hong Kong][cuhk_logo]](http://www.med.cuhk.edu.hk/)
 
+[![Imagination Technologies][img_logo]](https://imgtec.com/)
+
 #### Funded by
 
 <!-- TODO: reduce size of EPSRC logo -->
@@ -35,4 +37,5 @@
 [ccfe_logo]: ../img/CCFE_Logo.jpg
 [etx_logo]: ../img/ETX_Logo.jpg
 [cuhk_logo]: ../img/CUHK_Logo.svg
+[img_logo]: ../img/IMG_Logo.jpg
 [epsrc_logo]: ../img/EPSRC_Logo.svg
