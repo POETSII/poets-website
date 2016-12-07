@@ -18,7 +18,7 @@
 
 [![Imagination Technologies][img_logo]](https://imgtec.com/) [![Maxeler Technologies][maxeler_logo]](http://www.maxeler.com/)
 
-[![National Microelectronics Institute][nmi_logo]](https://nmi.org.uk)
+[![Numerical Algorithms Group][nag_logo]](https://www.nag.co.uk/) [![National Microelectronics Institute][nmi_logo]](https://nmi.org.uk)
 
 #### Funded by
 
@@ -39,5 +39,6 @@
 [cuhk_logo]: ../img/CUHK_Logo.svg
 [img_logo]: ../img/IMG_Logo.jpg
 [maxeler_logo]: ../img/Maxeler_Logo.png
+[nag_logo]: ../img/NAG_Logo.jpg
 [nmi_logo]: ../img/NMI_Logo.png
 [epsrc_logo]: ../img/EPSRC_Logo.svg
