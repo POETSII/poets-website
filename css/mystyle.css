@@ -60,7 +60,7 @@
 	border-color: rgba(0, 0, 0, 0.1);
 }
 
-.text, .text p {
+.content, .content p {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     width: 600pt;
@@ -83,3 +83,4 @@
 	opacity: 50%;
 	border-color: rgba(0, 0, 0, 0.1);
 }
+
