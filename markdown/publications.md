@@ -8,10 +8,10 @@
 
 ##### Software Tools
 
-* <p>Ghaith Tarawneh, Andrey Mokhov. _Xprova: Formal Verification Tool with Built-in Metastability Modeling_. International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. In Press.</p>
+* <p>Ghaith Tarawneh, Andrey Mokhov. <i>Xprova: Formal Verification Tool with Built-in Metastability Modeling</i>. International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. In Press.</p>
 
-<!-- Note: the <p> tag above is workaround for a bug in pandoc. If more items
-are added to the list then it can be removed. -->
+<!-- Note: the <p> and <i> tags above is workaround for a bug in pandoc.
+If more items are added to the list then they can be removed. -->
 
 ##### Theory
 
