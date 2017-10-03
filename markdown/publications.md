@@ -21,4 +21,5 @@ If more items are added to the list then they can be removed. -->
 * Ghaith Tarawneh, Matthias Függer, Christoph Lenzen. _Metastability Tolerant Computing_. IEEE International Symposium on Asynchronous Circuits and Systems (ASYNC 2017), IEEE.
 
 * Łukasz Mikulski, Andrey Mokhov, Marcin Piatkowski. _Reduction of Order Structures_. International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. In Press.
-[[paper](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures.pdf)]
+[[paper](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures.pdf),
+[slides](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures-slides.pdf)]
