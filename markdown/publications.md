@@ -2,19 +2,24 @@
 
 ##### Languages and Models
 
-1. Mokhov A, de-Gennaro A, Tarawneh G, Wray J, Lukyanov G, Mileiko S, Scott J, Yakovlev A, Brown, A. Language and Hardware Acceleration Backend for Graph Processing. In: Forum on specification & Design Languages (FDL 2017). In Press.
+* Ghaith Tarawneh, Andrey Mokhov, Matthew Naylor, Alex Rast, Simon Moore, David Thomas, Alex Yakovlev, Andrew Brown. _Programming Model to Develop Supercomputer Combinatorial Solvers._ International Workshop on Parallel Programming Models and Systems Software for High-End Computing (P2S2 2017), IEEE. In Press.
+[[slides](https://black-extruder.net/talks/p2s2)]
 
-2. Tarawneh G, Mokhov A, Naylor M, Rast A, Moore SW, Thomas DB, Yakovlev A, Brown A. Programming Model to Develop Supercomputer Combinatorial Solvers In: Tenth International Workshop on Parallel Programming Models and Systems Software for High-End Computing (P2S2 2017), IEEE. In Press.
+* Andrey Mokhov, Alessandro de Gennaro, Ghaith Tarawneh, Jonny Wray, Georgy Lukyanov, Sergey Mileiko, Joe Scott, Alex Yakovlev, Andrew Brown. _Language and Hardware Acceleration Backend for Graph Processing_. Forum on specification & Design Languages (FDL 2017). In Press.
+[[paper](https://github.com/tuura/papers/blob/master/fdl-2017/graphs-on-fpga.pdf),
+[slides](https://github.com/tuura/papers/blob/master/fdl-2017/graphs-on-fpga-slides.pdf)]
 
 ##### Software Tools
 
-1. <p>Tarawneh G, Mokhov A. Xprova: Formal Verification Tool with Built-in Metastability Modeling. In 17th IEEE International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. In Press.</p>
+* <p>Ghaith Tarawneh, Andrey Mokhov. <i>Xprova: Formal Verification Tool with Built-in Metastability Modeling</i>. International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. In Press.</p>
 
-<!-- Note: the <p> tag above is workaround for a bug in pandoc. If more items
-are added to the list then it can be removed. -->
+<!-- Note: the <p> and <i> tags above is workaround for a bug in pandoc.
+If more items are added to the list then they can be removed. -->
 
 ##### Theory
 
-1. Tarawneh G, Függer M, Lenzen, C. Metastability Tolerant Computing. In 23rd IEEE International Symposium on Asynchronous Circuits and Systems (ASYNC 2017), IEEE.
+* Ghaith Tarawneh, Matthias Függer, Christoph Lenzen. _Metastability Tolerant Computing_. IEEE International Symposium on Asynchronous Circuits and Systems (ASYNC 2017), IEEE.
 
-2. Mikulski Ł, Mokhov A, Piatkowski, M. Reduction of Order Structures. In 17th IEEE International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. In Press.
+* Łukasz Mikulski, Andrey Mokhov, Marcin Piatkowski. _Reduction of Order Structures_. International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. In Press.
+[[paper](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures.pdf),
+[slides](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures-slides.pdf)]
