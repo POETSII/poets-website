@@ -1,5 +1,15 @@
 % Publications
 
+##### Architecture
+
+* <p>Andrew Brown, David Thomas, Jeff Reeve, Ghaith Tarawneh, Alessandro de Gennaro, Andrey Mokhov, Matthew Naylor, Tom Kazmierski. <i>Distributed Event-based Computing</i>. ParCo conference, 2017. In Press.
+[[paper](https://github.com/tuura/papers/blob/master/parco-2017/distributed-event-based-computing.pdf)]
+</p>
+
+<!-- Note: the <p> and <i> tags above is workaround for a bug in pandoc.
+If more items are added to the list then they can be removed. -->
+
+
 ##### Languages and Models
 
 * Ghaith Tarawneh, Andrey Mokhov, Matthew Naylor, Alex Rast, Simon Moore, David Thomas, Alex Yakovlev, Andrew Brown. _Programming Model to Develop Supercomputer Combinatorial Solvers._ International Workshop on Parallel Programming Models and Systems Software for High-End Computing (P2S2 2017), IEEE. In Press.
