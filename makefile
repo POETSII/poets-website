@@ -1,12 +1,13 @@
-build: html
-
-publish: html renameVirtualLink
-
-html: markdown/* template/template.htm
-	./md2html.sh
+www: content/* template/*
+	cp -r static www/static
+	cp template/index.htm www/index.htm
+	./generate_pages.sh
 
 clean:
-	rm -rf html/*.htm
+	rm -rf www/*.htm
+	rm -rf www/static/
+
+publish: www renameVirtualLink
 
 renameVirtualLink:
-	sed -i -- 's/\.htm//g' 	html/*.htm
+	sed -i -- 's/\.htm//g' 	www/*.htm

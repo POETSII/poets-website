@@ -20,6 +20,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-project.sublime-workspace
-poets-*-update.php
+*.sublime-workspace
 download
+www/

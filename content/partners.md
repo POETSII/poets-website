@@ -33,16 +33,16 @@
 </center>
 </div>
 
-[cambridge_logo]: ../img/University_of_Cambridge_logo.svg
-[icl_logo]: ../img/Imperial_College_London_Logo.svg
-[newcastle_logo]: ../img/Newcastle_University_Logo.svg
-[southampton_logo]: ../img/University_of_Southampton_Logo.svg
-[arm_logo]: ../img/ARM_Logo.svg
-[ccfe_logo]: ../img/CCFE_Logo.jpg
-[etx_logo]: ../img/ETX_Logo.jpg
-[cuhk_logo]: ../img/CUHK_Logo.svg
-[img_logo]: ../img/IMG_Logo.jpg
-[maxeler_logo]: ../img/Maxeler_Logo.png
-[nag_logo]: ../img/NAG_Logo.jpg
-[nmi_logo]: ../img/NMI_Logo.png
-[epsrc_logo]: ../img/EPSRC_Logo.svg
+[cambridge_logo]: static/img/University_of_Cambridge_logo.svg
+[icl_logo]: static/img/Imperial_College_London_Logo.svg
+[newcastle_logo]: static/img/Newcastle_University_Logo.svg
+[southampton_logo]: static/img/University_of_Southampton_Logo.svg
+[arm_logo]: static/img/ARM_Logo.svg
+[ccfe_logo]: static/img/CCFE_Logo.jpg
+[etx_logo]: static/img/ETX_Logo.jpg
+[cuhk_logo]: static/img/CUHK_Logo.svg
+[img_logo]: static/img/IMG_Logo.jpg
+[maxeler_logo]: static/img/Maxeler_Logo.png
+[nag_logo]: static/img/NAG_Logo.jpg
+[nmi_logo]: static/img/NMI_Logo.png
+[epsrc_logo]: static/img/EPSRC_Logo.svg
