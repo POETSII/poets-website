@@ -2,7 +2,7 @@ DirectoryIndex index.htm
 
 RewriteEngine on
 
-RewriteRule ^([A-Za-z0-9]+)/?$ /html/$1.htm
+RewriteRule ^([A-Za-z0-9]+)/?$ /$1.htm
 
 Options -Indexes
 

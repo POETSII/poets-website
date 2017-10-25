@@ -1,6 +1,7 @@
 www: content/* template/*
-	cp -r static www/static
-	cp template/index.htm www/index.htm
+	cp -r static www/
+	cp template/index.htm www/
+	cp template/.htaccess www/
 	./generate_pages.sh
 
 clean:
