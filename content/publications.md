@@ -3,8 +3,8 @@
 ##### Architecture
 
 * <p>Andrew Brown, John Chad, Raihaan Kamarudin, Kier Dugan, Stephen Furber.
-<i>SpiNNaker: Event-based simulation - quantitative behaviour</i>. IEEE
-Transactions on Multi-Scale Computing Systems, 2017.
+<i>SpiNNaker: Event-based simulation &em; quantitative behaviour</i>. IEEE
+Transactions on Multi-Scale Computing Systems, 2017. In Press.
 [[paper](https://poets-project.org/download/spinnaker-tmscs-2017.pdf)]
 </p>
 
