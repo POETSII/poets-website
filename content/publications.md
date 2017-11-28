@@ -2,13 +2,15 @@
 
 ##### Architecture
 
+* <p>Andrew Brown, John Chad, Raihaan Kamarudin, Kier Dugan, Stephen Furber.
+<i>SpiNNaker: Event-based simulation - quantitative behaviour</i>. IEEE
+Transactions on Multi-Scale Computing Systems, 2017.
+[[paper](https://poets-project.org/download/spinnaker-tmscs-2017.pdf)]
+</p>
+
 * <p>Andrew Brown, David Thomas, Jeff Reeve, Ghaith Tarawneh, Alessandro de Gennaro, Andrey Mokhov, Matthew Naylor, Tom Kazmierski. <i>Distributed Event-based Computing</i>. ParCo conference, 2017. In Press.
 [[paper](https://github.com/tuura/papers/blob/master/parco-2017/distributed-event-based-computing.pdf)]
 </p>
-
-<!-- Note: the <p> and <i> tags above is workaround for a bug in pandoc.
-If more items are added to the list then they can be removed. -->
-
 
 ##### Languages and Models
 
