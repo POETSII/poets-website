@@ -18,7 +18,7 @@ Contributions in this and related areas are invited from both academic and indus
 
 <p>
 Information on volunteered topics and proposed presentation details should be emailed to Tom J Kazmierski
-(<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#106;&#107;&#64;&#101;&#99;&#115;&#46;&#115;&#111;&#116;&#111;&#110;&#46;&#97;&#99;&#46;&#117;&#107;">&#116;&#106;&#107;&#64;&#101;&#99;&#115;&#46;&#115;&#111;&#116;&#111;&#110;&#46;&#97;&#99;&#46;&#117;&#107;</a>). Oral presentations should be 20 minutes each. Posters can be displayed on the first day of the Workshop and remain on view for the duration. Presenters will be invited to discuss their posters during break periods and panel sessions.
+(<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#106;&#107;&#64;&#101;&#99;&#115;&#46;&#115;&#111;&#116;&#111;&#110;&#46;&#97;&#99;&#46;&#117;&#107;">&#116;&#106;&#107;<!--><!-->@<!--><!-->&#101;&#99;&#115;&#46;&#115;&#111;&#116;&#111;&#110;&#46;&#97;&#99;&#46;&#117;&#107;</a>). Oral presentations should be 20 minutes each. Posters can be displayed on the first day of the Workshop and remain on view for the duration. Presenters will be invited to discuss their posters during break periods and panel sessions.
 </p>
 
 Further details will follow in due course.
