@@ -1,11 +1,13 @@
 % News
 
-<p>**19-20 April 2017**: Advisory Board and POETS all-hands meeting</p>
+<p>**19-23 March 2018**: Newcastle team and e-Therapeutics exhibit the drug
+discovery accelerator at the DATE'2018 conference in Dresden, Germany.</p>
 
-<p>**1 February 2017:** Alex Rast joins as a POETS RA at Southampton University</p>
+<p>**5-6 February 2018**: Newcastle and Imperial College researchers visit
+e-Therapeutics.</p>
 
-<p>**1 November 2016:** Ghaith Tarawneh officially joins the POETS team at
-Newcastle University as a Research Associate. Welcome, Ghaith!</p>
+<p>**1 November 2017**: POETS all-hands meeting in Southampton.</p>
 
-<p>**14 June 2016:** The project has started with a kick-off meeting at Cambridge
-University.</p>
+<p>**19-20 April 2017**: Advisory Board and POETS all-hands meeting in Newcastle.</p>
+
+<p>**14 June 2016:** The project has started with a kick-off meeting in Cambridge.</p>
