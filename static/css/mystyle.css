@@ -100,3 +100,7 @@ a:active {
 	border-color: rgba(0, 0, 0, 0.1);
 }
 
+hr {
+	opacity: 50%;
+	border-color: rgba(0, 0, 0, 0.1);
+}
