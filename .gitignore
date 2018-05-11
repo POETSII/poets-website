@@ -24,3 +24,5 @@ $RECYCLE.BIN/
 download
 www/
 poets-*-update.php
+
+*.pyc
