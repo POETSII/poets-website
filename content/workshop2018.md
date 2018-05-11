@@ -1,24 +1,153 @@
-% Workshop 2018
+<!-- % Workshop 2018 -->
 
-<b>POETS Workshop 6-7 September 2018</b>
+<style type="text/css">
+	a.neat {
+		color: #2196F3;
+		border-bottom: solid 1px #2196F3;
+	}
+</style>
 
-Preliminary announcement
+<img src="static/img/workshop-2018/southampton.jpg" style="margin-bottom: 20px;" />
 
-<p>
-The Partially-Ordered Event Driven Systems (POETS) Workshop Organising Committee is seeking volunteered oral presentations and posters in the area of parallel computing for the POETS Workshop to be held at Chilworth Manor near Southampton on 6-7 September 2018.
-</p>
+<h3 style=" margin-top: 0;">POETS Workshop</h3>
+<div style="position: relative; bottom: 20px; ">
+	Workshop on Event-Based Parallel Computing
+</div>
 
-<p>
-The EPSRC funded POETS Project aims to develop effective approaches to massively parallel computing by taking advantage of the proliferation of cheap, small cores and massive reconfigurable platforms. In a POETS system  the programmer defines a set of relatively small, simple behaviours for the set of cores and lets the system to 'self-organise' to produce the desired results.
-</p>
+<table>
+	<tr>
+		<td>
+			Date
+		</td>
+		<td style="width: 20px; text-align: center;">
+			:
+		</td>
+		<td>
+			<b>6-7<sup>th</sup> September 2018</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Location
+		</td>
+		<td style="width: 20px; text-align: center;">
+			:
+		</td>
+		<td>
+			<a class="neat" target="_blank" href="https://goo.gl/maps/KzjL9VJprjL2">
+				Chilworth Manor, Southampton
+			</a>
+		</td>
+	</tr>
+</table>
 
-<p>
-Contributions in this and related areas are invited from both academic and industrial speakers.
-</p>
+#### Contacts
 
-<p>
-Information on volunteered topics and proposed presentation details should be emailed to Tom J Kazmierski
-(<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#106;&#107;&#64;&#101;&#99;&#115;&#46;&#115;&#111;&#116;&#111;&#110;&#46;&#97;&#99;&#46;&#117;&#107;">&#116;&#106;&#107;<!--><!-->@<!--><!-->&#101;&#99;&#115;&#46;&#115;&#111;&#116;&#111;&#110;&#46;&#97;&#99;&#46;&#117;&#107;</a>). Oral presentations should be 20 minutes each. Posters can be displayed on the first day of the Workshop and remain on view for the duration. Presenters will be invited to discuss their posters during break periods and panel sessions.
-</p>
+<div style="margin-left: 15px;">
+<li>
+	<b>Tom Kazmierski</b>, Southampton University (<a class="neat" href="&#x6d;&#97;&#105;&#108;&#116;&#x6f;&#58;&#116;&#106;&#107;&#x40;&#x65;&#99;&#x73;&#x2e;&#115;&#x6f;&#116;&#x6f;&#x6e;&#x2e;&#x61;&#x63;&#x2e;&#117;&#x6b;">&#x74;&#x6a;&#x6b;&#64;&#101;&#99;&#x73;&#x2e;&#x73;&#111;&#x74;&#x6f;&#x6e;&#46;&#97;&#99;&#x2e;&#117;&#107;</a>)
+</li>
+<li>
+	<b>Andrey Mokhov</b>, Newcastle University (<a class="neat" href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#x3a;&#x61;&#110;&#100;&#x72;&#101;&#x79;&#46;&#109;&#x6f;&#x6b;&#x68;&#x6f;&#118;&#x40;&#x6e;&#x65;&#x77;&#x63;&#97;&#x73;&#116;&#108;&#101;&#x2e;&#97;&#99;&#46;&#117;&#x6b;">&#97;&#x6e;&#100;&#x72;&#101;&#121;&#x2e;&#109;&#111;&#x6b;&#104;&#x6f;&#118;&#x40;&#x6e;&#101;&#119;&#x63;&#x61;&#x73;&#116;&#108;&#x65;&#46;&#97;&#x63;&#46;&#x75;&#x6b;</a>)
+</li>
+</div>
 
-Further details will follow in due course.
+#### Important Dates
+
+<table style="margin-left: 15px;">
+	<tr>
+		<td>
+			<li>Submission Deadline (abstracts and posters)</li>
+		</td>
+		<td style="width: 20px; text-align: center;">
+			:
+		</td>
+		<td>
+			<b>23 July 2018</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<li>Demonstration Proposals Deadline</li>
+		</td>
+		<td style="width: 20px; text-align: center;">
+			:
+		</td>
+		<td>
+			<b>1 August 2018</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<li>Notification of Acceptance (abstract, posters and demos)</li>
+		</td>
+		<td style="width: 20px; text-align: center;">
+			:
+		</td>
+		<td>
+			<b>7 August 2018</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<li>Registration Deadline</li>
+		</td>
+		<td style="width: 20px; text-align: center;">
+			:
+		</td>
+		<td>
+			<b>20 August 2018</b>
+		</td>
+	</tr>
+</table>
+
+#### Call for Papers and Posters
+
+POETS Workshop on Event-Based Parallel Computing  provides a forum for
+engineers and researchers in academia, industry and government to present
+their latest results or work in progress in all aspects of parallel and
+distributed computing. The Workshop concerns all aspects of the research,
+development, and application of high-performance parallel-computing,
+specifically algorithms, applications, architecture, interprocessor
+communication, software, and performance.
+
+Specific areas of interest are:
+
+1. **Architecture solutions** relevant to processors, memory, I/O, interprocessor
+communication, power- aware/energy-efficient hardware, interprocessor
+communication; heterogeneous architectures, instruction, thread and data
+parallelism; special-purpose accelerators including GPUs and FPGAs, and
+special-purpose processors.
+
+2. **Algorithms** concerning scheduling, energy saving,  machine learning;
+modeling and simulation are of particular interest. Applications may include
+big data; data analytics; computational science & engineering, e.g.,
+electronics, mechanical engineering, arts; high-level hardware and software
+synthesis, design space exploration, optimisation, virtual prototyping,
+problems in biology, health care and finance.
+
+3. **Applications** requiring performance, including scalability; modeling;
+evaluation of hardware and algorithms; machine learning, visualization, IoT
+application;
+
+4. **Software**, including systems software; programming models, compilers;
+operating systems; run-time systems; resource management.
+
+#### Extended Abstract and Poster Submission
+
+Extended abstracts should be no more than **2 pages** (including references)
+and must be formatted according to the <a class="neat" href="http://www.ieee.org/web/pub
+lications/pubservices/confpub/AuthorTools/conferenceTemplates.html"
+target="_blank">IEEE Conference template</a>.
+
+The size of the posters should be **A0 or A1** in **portrait** orientation.
+
+#### Submission link
+
+Abstracts and posters must be submitted using the <a class="neat"
+href="https://easychair.org/conferences/?conf=poets2018"
+target="_blank">online submission form</a>
+
+---
+
+<div style="display: block; height: 140px;"></div>

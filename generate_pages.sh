@@ -13,3 +13,6 @@ do
   	echo "Generating $f2..."
 	pandoc $f --template $TEMPLATE | dos2unix > $f2
  done
+
+# Use strict mode to keep html tags:
+# pandoc $f --template $TEMPLATE -f markdown_strict | dos2unix > $f2
