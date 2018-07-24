@@ -1,6 +1,23 @@
 % News
 
-**19-23 March 2018**: Newcastle team and e-Therapeutics exhibit the drug discovery accelerator at the DATE'2018 conference in Dresden, Germany
+**24 July 2018**: Drug discovery hardware accelerated based on POETS
+technology wins the Xilinx Open Hardware 2018 Competition
+
+PhD students Alessandro de Gennaro and Sergey Mileiko from Newcastle
+University won the first prize (PhD category) in the Xilinx Open Hardware 2018
+competition ([http://www.openhw.eu/2018-finalists.html](http://www.openhw.eu/2018-finalists.html)).
+Alessandro and Sergey submitted a hardware accelerator
+to speed up network analysis by up to 2505x compared to software running on
+desktop computers, giving a significant boost to applications such as
+computational drug discovery that rely on analyzing large protein interactome
+networks. As part of their submission, the winning team prepared [this
+video](https://www.youtube.com/watch?v=Z2w0hiHY3Us) to describe the
+accelerator and its target application.
+
+---
+
+**19-23 March 2018**: Newcastle team and e-Therapeutics exhibit the drug
+discovery accelerator at the DATE'2018 conference in Dresden, Germany
 
 We are presenting an FPGA accelerator for network analysis based on a minified
 version of POETS at DATE'2018 in Dresden, Germany. The accelerator consists of
