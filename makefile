@@ -3,7 +3,7 @@ www: content/* template/* FORCE
 	@ cp template/index.htm www/
 	@ cp template/.htaccess www/
 	@ ./generate_pages.sh
-	@ cp html/* www/
+	# @ cp html/* www/
 	@ touch ./www/.update
 
 clean:
