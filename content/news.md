@@ -1,23 +1,51 @@
 % News
 
-**24 July 2018**: Drug discovery hardware accelerated based on POETS
+**25-29 March 2019**: Live demos of POETS applications to be presented at the
+DATE'2019 conference in Florence, Italy
+([Abstract](/download/poets-date-2019-demo-abstract.pdf))
+
+We are presenting live demos of three applications that have been accelerated
+through POETS: (1) large-scale network analysis, (2) heat dissipation
+simulation and (3) particle simulation. In each demo, we'll present a realtime
+visualization of the application as it runs on a remote POETS prototype
+machine deployed at Cambridge University. We invite DATE delegates to visit
+our demo stand and join us for a discussion of the POETS technology
+underpinning these accelerated applications.
+
+---
+
+**24 July 2018**: Drug discovery hardware accelerator based on POETS
 technology wins the Xilinx Open Hardware 2018 Competition
+([List of Finalists](http://www.openhw.eu/2018-finalists.html))
+([Winning Video](https://www.youtube.com/watch?v=Z2w0hiHY3Us))
 
 PhD students Alessandro de Gennaro and Sergey Mileiko from Newcastle
 University won the first prize (PhD category) in the Xilinx Open Hardware 2018
-competition ([http://www.openhw.eu/2018-finalists.html](http://www.openhw.eu/2018-finalists.html)).
-Alessandro and Sergey submitted a hardware accelerator
-to speed up network analysis by up to 2505x compared to software running on
-desktop computers, giving a significant boost to applications such as
-computational drug discovery that rely on analyzing large protein interactome
-networks. As part of their submission, the winning team prepared [this
-video](https://www.youtube.com/watch?v=Z2w0hiHY3Us) to describe the
-accelerator and its target application.
+competition. Alessandro and Sergey submitted a hardware accelerator to speed
+up network analysis by up to 2505x compared to software running on desktop
+computers, giving a significant boost to applications such as computational
+drug discovery that rely on analyzing large protein interactome networks. As
+part of their submission, the winning team prepared a video to describe the
+accelerator and its target application (link in the header).
+
+---
+
+**13-15 June 2018**: Two talks on POETS at the Adaptive Many-Core Architectures and
+Systems workshop in York, UK
+([Abstract 1](/download/poets-many-core-workshop-2018-abstract-a.pdf))
+([Abstract 2](/download/poets-many-core-workshop-2018-abstract-b.pdf))
+
+Ghaith Tarawneh (Newcastle University) and Jonathan Beaumont (Imperial College
+London) from the POETS team gave two talks on the POETS architecture and its
+programming models. The talks presented POETS to researchers in the many-core
+communities and stimulated discussions of potential applications, as well as
+relationship to other massively-parallel architectures.
 
 ---
 
 **19-23 March 2018**: Newcastle team and e-Therapeutics exhibit the drug
 discovery accelerator at the DATE'2018 conference in Dresden, Germany
+([Abstract](/download/poets-date-2018-demo-abstract.pdf))
 
 We are presenting an FPGA accelerator for network analysis based on a minified
 version of POETS at DATE'2018 in Dresden, Germany. The accelerator consists of
@@ -30,6 +58,8 @@ implementation. Speeding up network analysis (protein interaction networks in
 particular) by this amount has a significant impact on application domains
 such as computational drug discovery where our industrial partner
 e-Therapeutics rely heavily on network analytics to identify candidate drugs.
+
+
 
 ---
 
