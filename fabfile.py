@@ -9,4 +9,4 @@ DIR                = "/home/gtarawneh/poets-project.org/www"
 def deploy():
 
     local("rsync -qavz www/ tuura:%s" % DIR)
-    run("chown -R :www-data %s" % DIR)
+    run("sudo chown -R :www-data %s" % DIR)
