@@ -1,5 +1,7 @@
 % Publications
 
+#### Publications
+
 ##### Architecture
 
 * <p>Andrew Brown, John Chad, Raihaan Kamarudin, Kier Dugan, Stephen Furber.

@@ -13,13 +13,11 @@ clean:
 publish: www renameVirtualLink
 
 renameVirtualLink:
-	@ sed -i -- 's/about\.htm/about/g'                www/*.htm
-	@ sed -i -- 's/partners\.htm/partners/g'          www/*.htm
-	@ sed -i -- 's/research\.htm/research/g'          www/*.htm
-	@ sed -i -- 's/news\.htm/news/g'                  www/*.htm
-	@ sed -i -- 's/publications\.htm/publications/g'  www/*.htm
-	@ sed -i -- 's/downloads\.htm/downloads/g'        www/*.htm
-	@ sed -i -- 's/contact\.htm/contact/g'            www/*.htm
-	@ sed -i -- 's/workshop2018\.htm/workshop2018/g'  www/*.htm
+	@ sed -i -- 's/about\.htm/about/g'               www /*.htm
+	@ sed -i -- 's/partners\.htm/partners/g'         www /*.htm
+	@ sed -i -- 's/news\.htm/news/g'                 www /*.htm
+	@ sed -i -- 's/publications\.htm/publications/g' www /*.htm
+	@ sed -i -- 's/tools\.htm/tools/g'               www /*.htm
+	@ sed -i -- 's/contact\.htm/contact/g'           www /*.htm
 
 FORCE:

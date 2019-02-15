@@ -3,7 +3,7 @@
 <div class="partners">
 <center>
 
-#### Academic partners
+#### Academic Partners
 
 [![University of Cambridge][cambridge_logo]](https://www.cam.ac.uk/) [![Imperial College London][icl_logo]](https://www.imperial.ac.uk/)
 
@@ -12,7 +12,7 @@
 <hr/>
 
 <!-- TODO: switch to SVG logos, erase JPG's from git history -->
-#### Industrial partners
+#### Industrial Partners
 
 [![ARM][arm_logo]](https://www.arm.com/) [![Culham Centre for Fusion Energy][ccfe_logo]](http://www.ccfe.ac.uk/)
 

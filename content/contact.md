@@ -1,5 +1,7 @@
 % Contact
 
+#### Contact
+
 <center>
 <p>For more information on the project please contact:</p>
 
