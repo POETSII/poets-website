@@ -4,15 +4,16 @@
 
 TEMPLATE=template/template.htm
 
-MDFILES=content/*.md
+SECTIONS=$(cd content && /bin/ls -1 *.md | sed 's/.md//g')
 
-for f in $MDFILES
+for section in $SECTIONS
 do
-	f2=${f/content/www}
-	f2=${f2/md/htm}
-  	echo "Generating $f2..."
-	pandoc $f --template $TEMPLATE | dos2unix > $f2
- done
+	echo "Generating $section ..."
+	MD_FILE="content/$section.md"
+	HTML_FILE="www/$section/index.htm"
+	mkdir -p www/$section/
+	pandoc $MD_FILE --template $TEMPLATE | dos2unix > $HTML_FILE
+done
 
 # Use strict mode to keep html tags:
 # pandoc $f --template $TEMPLATE -f markdown_strict | dos2unix > $f2
