@@ -16,6 +16,20 @@ underpinning these accelerated applications.
 
 ---
 
+**20 September 2018**: Talk on Distributed Drug Discovery on POETS at Uppsala
+University, Sweden
+([Abstract](http://www.it.uu.se/research/computer_systems/seminars/180920))
+
+Andrey Mokhov, the lead POETS investigator at Newcastle, gave a talk on the
+distributed drug discovery application the POETS team is developing in
+collaboration with our industrial partner e-Therapeutics. The talk introduced
+the architecture and discussed ways to accelerate average shortest path
+computations on large protein interactomes, as well as using distributed
+genetic algorithms to find promising drug candidates. Andrey delivered the
+same talk at KU Leuven, Belgium on the 17th of December 218.
+
+---
+
 **24 July 2018**: Drug discovery hardware accelerator based on POETS
 technology wins the Xilinx Open Hardware 2018 Competition
 ([List of Finalists](http://www.openhw.eu/2018-finalists.html))
