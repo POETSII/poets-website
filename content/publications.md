@@ -14,12 +14,13 @@ Transactions on Multi-Scale Computing Systems, 2017. In Press.
 [[paper](https://github.com/tuura/papers/blob/master/parco-2017/distributed-event-based-computing.pdf)]
 </p>
 
-* Matthew Naylor, Simon W. Moore, David Thomas, Shane Fleming,
-A. Theodore Markettos, Andrey Mokhov, Andrew Brown. _Tinsel: a manythread
-overlay for FPGA clusters_. 2019 International Conference on Field
+* <p>Matthew Naylor, Simon W. Moore, David Thomas, Shane Fleming,
+A. Theodore Markettos, Andrey Mokhov, Andrew Brown. <i>Tinsel: a manythread
+overlay for FPGA clusters</i>. 2019 International Conference on Field
 Programmable Logic and Applications.
 [[paper](https://github.com/POETSII/tinsel/blob/master/doc/fpl-2019-paper.pdf),
 [repo](https://github.com/POETSII/tinsel/)]
+</p>
 
 ##### Languages and Models
 
