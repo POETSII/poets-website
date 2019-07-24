@@ -14,6 +14,13 @@ Transactions on Multi-Scale Computing Systems, 2017. In Press.
 [[paper](https://github.com/tuura/papers/blob/master/parco-2017/distributed-event-based-computing.pdf)]
 </p>
 
+* Matthew Naylor, Simon W. Moore, David Thomas, Shane Fleming,
+A. Theodore Markettos, Andrey Mokhov, Andrew Brown. _Tinsel: a manythread
+overlay for FPGA clusters_. 2019 International Conference on Field
+Programmable Logic and Applications.
+[[paper](https://github.com/POETSII/tinsel/blob/master/doc/fpl-2019-paper.pdf),
+[repo](https://github.com/POETSII/tinsel/)]
+
 ##### Languages and Models
 
 * Ghaith Tarawneh, Andrey Mokhov, Matthew Naylor, Alex Rast, Simon Moore, David Thomas, Alex Yakovlev, Andrew Brown. _Programming Model to Develop Supercomputer Combinatorial Solvers._ International Workshop on Parallel Programming Models and Systems Software for High-End Computing (P2S2 2017), IEEE. In Press.
