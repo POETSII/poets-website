@@ -2,6 +2,10 @@
 
 #### Applications
 
+<hr/>
+
+<img width="300pt" src="/static/img/misc/01.jpg" />
+
 ##### Event-based Micromagnetic Simulation of Spintronic Devices
 
 POETS - Partial Ordered Event Triggered Systems - technology is based on the idea of an extremely large number (millions) of small cores, embedded in a fast, bespoke, hardware, parallel communications infrastructure - the core mesh. Inter-core communication is asynchronous, and effected by small, fixed size, hardware data packets (a few bytes) - messages. For an important set of industrial problems, POETS architectures are capable of delivering orders of magnitude speed increases at significantly lower power levels. This project is about accelerating a simulation application using POETS.
@@ -12,17 +16,14 @@ Regarding data storage in computers, hard drives magnetise regions of the space 
 
 The objective of this project is to develop an application for POETS to perform micromagnetic simulations of these potential data carriers (skyrmions and magnons), which in turn will inform the design of spintronic devices.
 
-<table style="width:100%"><tr><td>
 **PhD scholarships available.**  
 For further details on this project, please contact
 
-Dr Mark Vousden (m.vousden@soton.ac.uk)  
-or Professor Andrew Brown (adb@ecs.soton.ac.uk)  
+*Dr Mark Vousden* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#109;&period;&#118;&#111;&#117;&#115;&#100;&#101;&#110;&commat;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">m.vousden<!--><!-->@<!--><!-->soton.ac.uk</a>)  
+or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
 Department of Electronics and Computer Science  
-University of Southampton  
+*University of Southampton*  
 Hampshire SO17 1BJ  
 +44 (0)2380 593374
-</td><td>
-[Event-based Micromagnetic Simulation of Spintronic Devices](/static/img/misc/01.jpg)
-</td></tr></table>
+
 
