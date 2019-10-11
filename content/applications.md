@@ -17,7 +17,7 @@ Regarding data storage in computers, hard drives magnetise regions of the space 
 The objective of this project is to develop an application for POETS to perform micromagnetic simulations of these potential data carriers (skyrmions and magnons), which in turn will inform the design of spintronic devices.
 
 * **PhD scholarships available.**  
-    For further details on this project, please contact
+    For further details on this project, please contact  
     *Dr Mark Vousden* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#109;&period;&#118;&#111;&#117;&#115;&#100;&#101;&#110;&commat;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">m.vousden<!--><!-->@<!--><!-->soton.ac.uk</a>)  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
     Department of Electronics and Computer Science  
@@ -39,7 +39,7 @@ Such tools are of immediate value in industrial applications ranging from comput
 This research project will develop effective mapping (hardware place-and-route) algorithms for graph-based problems. The project will work with a generic, massively parallel hardware substrate being developed by the project partners. The goal will be not merely to discover effective point solutions, but to determine what general principles for hardware mapping can be derived, so that parallel programs can be designed using a structured approach rather than through a collection of heuristics and ad-hoc techniques.
 
 * **PhD scholarships available.**  
-    For further details on this project, please contact
+    For further details on this project, please contact  
     *Dr Mark Vousden* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#109;&period;&#118;&#111;&#117;&#115;&#100;&#101;&#110;&commat;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">m.vousden<!--><!-->@<!--><!-->soton.ac.uk</a>),  
     *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  

@@ -103,4 +103,6 @@ a:active {
 hr {
 	opacity: 50%;
 	border-color: rgba(0, 0, 0, 0.1);
+	margin-top: 40pt;
+	margin-bottom: 30pt;
 }
