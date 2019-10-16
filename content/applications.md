@@ -115,7 +115,7 @@ The objective of this project is to investigate and assess the applicability of 
 
 <hr/>
 
-##### Programming models and languages for graph description and manipulation
+##### Programming Models and Languages for Graph Description and Manipulation
 
 This project is about developing new programming models and languages for prototyping POETS applications that can comprise millions of nodes interacting by short messages with their neighbours. Compilation of POETS programs can therefore be formalised as construction of application graphs from high-level descriptions written in popular programming languages and frameworks, and subsequent optimisation of these graphs aiming to improve their mapping to the underlying POETS hardware, generating efficient initialisation, communication, termination and data exfiltration protocols, as well as visualising the computation process for debugging and demonstration purposes. A side illustration shows a classic distributed matrix multiplication algorithm mapped to a POETS computation network.
 
