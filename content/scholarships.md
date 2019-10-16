@@ -15,4 +15,4 @@ Candidates with an excellent qualification in Computer Engineering, Computer Sci
 * [Runtime Performance and Energy Optimisation of Massively Parallel Asynchronous Systems](/applications/#runtime-performance-and-energy-optimisation-of-massively-parallel-asynchronous-systems)
 * [Programming Models and Languages for Graph Description and Manipulation](/applications/#programming-models-and-languages-for-graph-description-and-manipulation)
 
-[Dowload all projects (PDF)](/)
+[Dowload all projects (PDF)](/about/)
