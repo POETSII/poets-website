@@ -14,5 +14,6 @@ Candidates with an excellent qualification in Computer Engineering, Computer Sci
 * [NEUROSCAPE - a Virtual Reality Artificial Environment for simulated neural development studies](/applications/#neuroscape---a-virtual-reality-artificial-environment-for-simulated-neural-development-studies)
 * [Runtime Performance and Energy Optimisation of Massively Parallel Asynchronous Systems](/applications/#runtime-performance-and-energy-optimisation-of-massively-parallel-asynchronous-systems)
 * [Programming Models and Languages for Graph Description and Manipulation](/applications/#programming-models-and-languages-for-graph-description-and-manipulation)
+* [Distributed Computations on Large Scale Networks](/applications/#distributed-computations-on-large-scale-networks)
 
 [Dowload all projects (PDF)](/uploads/PhDs_1.pdf)
