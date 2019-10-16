@@ -49,3 +49,85 @@ This research project will develop effective mapping (hardware place-and-route) 
     +44 (0)2380 593374
 
 <hr/>
+
+##### Real-Time System Management for Asynchronous Hardware
+
+In large computing systems, system management is a vital part of the overall platform. A system management suite must provide process monitoring, hardware diagnostics, low-level debug facilities, hardware performance monitoring, and operator control. For conventional large-scale _synchronous_ systems, the problem has been well-studied and numerous tools offer comprehensive control and monitoring facilities. However, when the system is partially or completely _asynchronous_, a range of further considerations enter. For example, the concept of a global 'breakpoint' does not even apply, because various parts of the system may independently be at different points in the computation. Control messages, furthermore, must account for the fact both that the communication delay from the control source to the control target is significant, and that the exact point when the control is injected is nondeterministic. Even a seemingly trivial problem like halting an application can be complex when there may be no way of determining when a process can be safely stopped.
+
+One possible solution is to distribute a number of independent control processes throughout the system, that assume local responsibility for a subset of the hardware and act more-or-less autonomously to provide a form of asynchronous hardware management. On the other hand, this can consume resources and occupy more communication bandwidth, so careful design will be required in order to make sure the management layer does not interfere with the main computation. Another solution would be to make each parallel process, in effect, responsible for its own management and implement a messaging system that allows a central operator control console to query each process independently. In this scenario, however, how to transform a series of local views into a global view of the overall system status will require investigation.
+
+Such management tools may be useful not only for integrated asynchronous hardware platforms, but also for distributed systems such as sensor networks, IoT-like environments involving large numbers of embedded devices communicating using asynchronous messaging, and swarm robotics. Indeed, existing techniques used in these application domains might be adapted and used for asynchronous hardware. 
+
+This project will investigate suitable models for real-time management of an asynchronous parallel hardware platform.  The project will work with a generic, massively parallel hardware substrate being developed by collaborators at the University of Cambridge and with configuration tools already under development at Southampton. The goal will be to determine what methods are suitable for managing asynchronous systems in real time and to demonstrate effective techniques through the implementation of a management layer for the hardware.
+ 
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Dr Mark Vousden* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#109;&period;&#118;&#111;&#117;&#115;&#100;&#101;&#110;&commat;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">m.vousden<!--><!-->@<!--><!-->soton.ac.uk</a>),  
+    *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
+    or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
+    Department of Electronics and Computer Science  
+    *University of Southampton*  
+    Hampshire SO17 1BJ  
+    +44 (0)2380 593374
+
+<hr/>
+
+##### NEUROSCAPE - a Virtual Reality Artificial Environment for simulated neural development studies
+
+Event-based processing is a completely novel kind of computation technique, which bears little or no resemblance to Turing's original concept of sixty years ago. One of the triumphs of the technique is to be able to simulate the behaviour of massive aggregates of neurons, on a scale and at a speed unattainable with conventional machines. The headline goal is to be able to simulate the behaviour of a billion neurons _in real time_, using around a million conventional cores. As neural ensembles become ever more complex, amongst the technical challenges facing the human experimenter is that of interpreting the output: a billion time histories is a formidable mass of data to mine. Received neuroscience wisdom says that the best way to study the high-level behaviour of a large neural ensemble is to embed it in a virtual reality environment, where complex emergent behaviour can be (relatively) easily identified and manipulated. To achieve this requires that the simulation is capable of reacting to stimuli in real time, and this is just what event-based processing can do.
+
+Artificial environments provide the _de facto_ technique for neural development studies, supporting a controlled environment for real-time interaction with 
+* (Models of) primitive organisms hosted by the POETS engine
+* (Models of) primitive organisms hosted on conventional machines
+* Human operators
+
+This project will focus in the design and interfacing of a virtual environment, to support neurobiological development studies of primitive creatures within the simulation environment.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
+    or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
+    Department of Electronics and Computer Science  
+    *University of Southampton*  
+    Hampshire SO17 1BJ  
+    +44 (0)2380 593374
+
+<hr/>
+
+##### Runtime Performance and Energy Optimisation of Massively Parallel Asynchronous Systems
+
+Energy used by computing is currently estimated to account for 8% of the global electricity supply and recent predictions have suggested that datacentres will consume 20% by 2025. One way in which this problem is being addressed is through significant research into techniques for the management of contemporary multi-core and distributed HPC systems that reduce energy while maintaining application performance. Common techniques include, but are not limited to, power gating, where unused parts of a system are turned off to reduce static energy; task mapping, to efficiently use available hardware resources and facilitate other management techniques; and dynamic Voltage-frequency selection (DVFS), where the operating frequency and core voltage are varied during runtime to reduce dynamic energy. 
+
+State-of-the-art techniques can reduce the energy required to execute an application by upwards of 40% while significantly reducing idle power dissipation compared to using no management. Runtime management has also found its way into the consumer space with personal computers implementing DVFS by default and many mobile devices exploiting heterogeneous system architectures that mix energy-efficient and high-performance processing cores.
+
+While the POETS architecture is intended to reduce power through its design, the application of management techniques that improve energy efficiency to achieve even greater savings of event-driven asynchronous many-core massively-parallel systems is a largely unexplored area that is essential to the ongoing maturation of these systems.
+
+The objective of this project is to investigate and assess the applicability of existing state-of-the art system optimisation methods to POETS-like systems, which in turn will inform the design of novel optimisation methods.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
+    or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
+    Department of Electronics and Computer Science  
+    *University of Southampton*  
+    Hampshire SO17 1BJ  
+    +44 (0)2380 593374
+
+<hr/>
+
+##### Programming models and languages for graph description and manipulation
+
+This project is about developing new programming models and languages for prototyping POETS applications that can comprise millions of nodes interacting by short messages with their neighbours. Compilation of POETS programs can therefore be formalised as construction of application graphs from high-level descriptions written in popular programming languages and frameworks, and subsequent optimisation of these graphs aiming to improve their mapping to the underlying POETS hardware, generating efficient initialisation, communication, termination and data exfiltration protocols, as well as visualising the computation process for debugging and demonstration purposes. A side illustration shows a classic distributed matrix multiplication algorithm mapped to a POETS computation network.
+
+There is a range of possible research topics within this project that will be appealing to students with different backgrounds. Students interested in distributed systems will be able to apply their knowledge for solving real-life problems from our industrial project partners, e.g. _accelerating computational drug discovery_, on a newly developed distributed architecture. For mathematically inclined students, the project provides an opportunity to be involved [in the ongoing work](https://github.com/snowleopard/alga) on the _algebra of graphs_, which is used as the underlying language for describing and manipulating graphs in our current implementation. Last but not least, students interested in formal methods will be able to contribute by _formally proving key properties of the compiler backend_, such as correctness and termination of generated code.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Prof Alex Yakovlev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#108;&#101;&#120;&period;&#121;&#97;&#107;&#111;&#118;&#108;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">alex.yakovlev<!--><!-->@<!--><!-->newcastle.ac.uk</a>) or  
+    *Dr Ashur Rafiev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#115;&#104;&#117;&#114;&period;&#114;&#97;&#102;&#105;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">ashur.rafiev<!--><!-->@<!--><!-->newcastle.ac.uk</a>)  
+    School of Engineering,  
+    *Newcastle University*  
+    United Kingdom, NE1 7RU  
+    +44 (0)191 208 8184
+
+<hr/>
