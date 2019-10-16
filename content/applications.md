@@ -6,9 +6,9 @@ POETS - Partial Ordered Event Triggered Systems - technology is based on the ide
 
 <hr/>
 
-<center><img style="width:300pt" src="/static/img/misc/01.jpg" /></center>
-
 ##### Event-based Micromagnetic Simulation of Spintronic Devices
+
+<center><img style="width:300pt" src="/static/img/misc/01.jpg" /></center>
 
 Moore's Law is the observation that, on a dense integrated circuit, the number of transistors doubles every two years. While this pace has slowed since the original observation in 1965, reducing the size of devices is still a strong design constraint, along with reducing the power required to operate them.
 
@@ -74,6 +74,8 @@ This project will investigate suitable models for real-time management of an asy
 
 ##### NEUROSCAPE - a Virtual Reality Artificial Environment for simulated neural development studies
 
+<center><img style="width:300pt" src="/static/img/misc/02.jpg" /></center>
+
 Event-based processing is a completely novel kind of computation technique, which bears little or no resemblance to Turing's original concept of sixty years ago. One of the triumphs of the technique is to be able to simulate the behaviour of massive aggregates of neurons, on a scale and at a speed unattainable with conventional machines. The headline goal is to be able to simulate the behaviour of a billion neurons _in real time_, using around a million conventional cores. As neural ensembles become ever more complex, amongst the technical challenges facing the human experimenter is that of interpreting the output: a billion time histories is a formidable mass of data to mine. Received neuroscience wisdom says that the best way to study the high-level behaviour of a large neural ensemble is to embed it in a virtual reality environment, where complex emergent behaviour can be (relatively) easily identified and manipulated. To achieve this requires that the simulation is capable of reacting to stimuli in real time, and this is just what event-based processing can do.
 
 Artificial environments provide the _de facto_ technique for neural development studies, supporting a controlled environment for real-time interaction with 
@@ -117,6 +119,8 @@ The objective of this project is to investigate and assess the applicability of 
 
 ##### Programming Models and Languages for Graph Description and Manipulation
 
+<center><img style="width:300pt" src="/static/img/misc/03.jpg" /></center>
+
 This project is about developing new programming models and languages for prototyping POETS applications that can comprise millions of nodes interacting by short messages with their neighbours. Compilation of POETS programs can therefore be formalised as construction of application graphs from high-level descriptions written in popular programming languages and frameworks, and subsequent optimisation of these graphs aiming to improve their mapping to the underlying POETS hardware, generating efficient initialisation, communication, termination and data exfiltration protocols, as well as visualising the computation process for debugging and demonstration purposes. A side illustration shows a classic distributed matrix multiplication algorithm mapped to a POETS computation network.
 
 There is a range of possible research topics within this project that will be appealing to students with different backgrounds. Students interested in distributed systems will be able to apply their knowledge for solving real-life problems from our industrial project partners, e.g. _accelerating computational drug discovery_, on a newly developed distributed architecture. For mathematically inclined students, the project provides an opportunity to be involved [in the ongoing work](https://github.com/snowleopard/alga) on the _algebra of graphs_, which is used as the underlying language for describing and manipulating graphs in our current implementation. Last but not least, students interested in formal methods will be able to contribute by _formally proving key properties of the compiler backend_, such as correctness and termination of generated code.
@@ -131,3 +135,25 @@ There is a range of possible research topics within this project that will be ap
     +44 (0)191 208 8184
 
 <hr/>
+
+##### Distributed Computations on Large Scale Networks
+
+<center><img style="width:300pt" src="/static/img/misc/04.jpg" /></center>
+
+Network science is an emerging field that combines exciting developments across broad multidisciplinary areas. Technological advances in the last decade made it possible to collect very large volumes of data and construct biological, financial and social networks of unprecedented scales, powering applications such as computational drug discovery, fraud detection and recommendation systems among others. As more data becomes available, network science is becoming increasingly dependent on our ability to run complex algorithms on large networks, a computational problem that scales poorly on commodity computers.
+
+This research project will investigate software programming models, formalisms, tools and algorithms to tackle the scalability of network analysis on a novel distributed platform: Partially Ordered Event Triggered Systems (POETS). POETS is a new massively-parallel architecture that integrates a very large number of simple cores in a communication infrastructure optimized for delivering small messages. While many massively-parallel machines emphasize individual core performance, POETS focuses on low-latency communication and scalability; targeted computational problems are decomposed, mapped then solved by exchanging messages between neighbouring cores. This idea was first proposed to tackle large-scale physical system simulations (e.g. neural system modelling and finite element analysis) but has since proved applicable to other classes of interesting problems including network analysis.
+
+Distributed systems such as POETS can outperform conventional shared-memory architectures in terms of scalability but require novel software abstractions that facilitate bottom-up re-thinking of problems and adapting them to a new computing medium. This is a rich and exciting research field with potentially significant impact on many real-world applications. The successful candidate will develop expertise in distributed computing as well as one or several network science application areas such as computational drug discovery and fraud detection. This studentship also provides an opportunity to interact with other research teams working on various layers of the POETS stack as well as a number of industrial partners.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Prof Alex Yakovlev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#108;&#101;&#120;&period;&#121;&#97;&#107;&#111;&#118;&#108;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">alex.yakovlev<!--><!-->@<!--><!-->newcastle.ac.uk</a>) or  
+    *Dr Ashur Rafiev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#115;&#104;&#117;&#114;&period;&#114;&#97;&#102;&#105;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">ashur.rafiev<!--><!-->@<!--><!-->newcastle.ac.uk</a>)  
+    School of Engineering,  
+    *Newcastle University*  
+    United Kingdom, NE1 7RU  
+    +44 (0)191 208 8184
+
+<hr/>
+
