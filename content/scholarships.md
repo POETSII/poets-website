@@ -16,8 +16,8 @@ Candidates with an excellent qualification in Computer Engineering, Computer Sci
 * [Detecting Financial Fraud](/applications/#detecting-financial-fraud)
 * [Computational Astrophysics](/applications/#computational-astrophysics)
 * [Protein Ghost Recognition Using Deep Learning](/applications/#protein-ghost-recognition-using-deep-learning)
+* [Real-time Simulation of Large Neural Aggregates](/applications/#real-time-simulation-of-large-neural-aggregates)
 
-* Real-time Simulation of Large Neural Aggregates
 * Dissipative Particle Dynamics (DPD)
 * Asynchronous Numerical Algorithms
 

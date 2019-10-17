@@ -247,3 +247,52 @@ SpiNNaker contains within it a novel simulation algorithm, designed to deliver t
     +44 (0)2380 593374
 
 <hr/>
+
+##### Dissipative Particle Dynamics (DPD)
+
+<center><img style="width:300pt" src="/static/img/misc/08.png" /></center>
+
+Computer simulations of biological and chemical systems are approaching a performance barrier: the computational cost of simulating a physical system scales at least as fast as the cube of its linear dimension. This barrier cannot be crossed by simulating atomic systems for longer because such systems have correlations that span many scales in space and time. New forces emerge on micron length scales that are largely independent of the constituent molecules' precise atomic structure: for example, the thermally excited undulations of membranes, or curvature-induced forces between proteins adsorbed to membranes. A mesoscale simulation technique called DPD - Dissipative Particle Dynamics - predicts how specific molecular details propagate upwards in length scale to influence the behaviour of large (~microns) volumes of matter, without considering each individual atom. This has enabled simulations of important biological phenomena such as bacterial toxin entry into cells during infectious disease. 
+
+The power of mesoscale simulations lies in their ability to accurately capture the thermal fluctuations always present in biological systems, and to reveal the emergence of long-range correlations not visible in simulations of small pieces of matter. Such systems are too slow to simulate on a single core (a CPU), and existing parallel simulations have the restriction that all cores must run in lock step, resulting in load balancing problems. The key to understanding living systems is therefore to simulate as nature does - asynchronously and in parallel - using an event-based computing engine.
+
+By modelling the physical system under study as a network (graph) and assigning a dedicated core to each vertex in the graph, we get a computing system with remarkable properties:
+
+- Each core only needs knowledge of the part of the network it represents.
+- Each core only communicates with its immediate neighbours.
+- Calculations performed at/on an individual core are small, simple, fast and easy.
+
+These three components are scalable: if we want more accuracy, or to analyse a bigger system, we just add more cores.
+
+Simulations of biological matter typically divide 3D space into a grid of small cubes and assign each cube to one core: each core then integrates the equations of motion for all the particles in its cube. All communication between cubes is handled by passing messages containing particle positions, velocities and forces. In a conventional supercomputer simulation this method is limited by the high delay of message passing, rather than just the compute time. The system speedup is therefore limited by the compute/messaging ratio of the processors. POETS breaks through this limitation in two ways: (1) by reducing each message to a small fixed size, with a very low message passing delay, and (2) dividing the volume of biological matter so finely such that each cube contains only a few atoms or molecules. The local computational cost per core is thus small and only one or two messages must be exchanged per core-pair to advance the simulation - all the cores operate in parallel. By exploiting high speed messaging we can reduce the compute costs, which translate into much larger systems eing simulated for longer, in a shorter time period.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Dr David Thomas* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#100;&period;&#116;&#104;&#111;&#109;&#97;&#115;&#49;&commat;&#105;&#109;&#112;&#101;&#114;&#105;&#97;&#108;&period;&#97;&#99;&period;&#117;&#107;">d.thomas1<!--><!-->@<!--><!-->imperial.ac.uk</a>)  
+    *Imperial College London*  
+    +44 (0)2075 946303  
+    or  
+    *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
+    *University of Southampton*  
+    +44 (0)2380 593374
+
+<hr/>
+
+##### Asynchronous Numerical Algorithms
+
+<center><img style="width:300pt" src="/static/img/misc/09.png" /></center>
+
+One way of using POETS is to use it to accelerate existing algorithms, but another way is to use it as a test-bed for genuinely new algorithms which directly exploit the hardware. This research project would investigate how we can transform and adapt existing synchronous numerical algorithms to work in a truly asynchronous compute fabric.
+
+Numerical methods are widely used in science and industry to provide approximation solutions to problems which have no closed-form solutions, or are too expensive to solve exactly. Examples include n-body simulations for modelling galaxies, finite-difference solvers for modelling hydrodynamics, and finite-element simulations for evaluating wind turbines. When one thinks of the largest super-computers in the world, such as _Summit_, _Sierra_ or _Sunway TaihuLight_, they spend most of their time executing such problems on tens or hundreds of thousands of cores. Many of these numerical methods involve stepping a simulated physical system through time, and usually will rely on the entire simulation reaching time _t_ before any part of the simulation can move onto time _t_+1. This lock-step progression through time can lead to inefficiency when executing these simulations on massively parallel systems, as synchronising across thousands of cores is expensive in time and energy.
+
+POETS offers the chance to come up with new algorithms that exploit the asynchronous nature of computers, and avoid the traditional reliance on synchronisation. The figure in the top-right shows a finite-element simulation of an airfoil, which was run on POETS using an algorithm with no synchronisation, but which still relies on discrete time steps from _t_ to _t_+1. However, there is also huge scope for numerical methods which directly incorporate asynchrony at the lowest level, and can exploit the inherently un-ordered and un-predictable nature of modern large-scale distributed systems. POETS is a great test-bed for this type of research, allowing theoretical ideas to actually be tested in real-world systems. This research area would be ideal both for compute scientists and engineers interesting in algorithmic research, and also physicists or chemists who were interested in exploring the computational side of their field. This studentship also provides an opportunity to interact with other research teams working on various layers of the POETS stack as well as a number of industrial partners.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Dr David Thomas* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#100;&#116;&#49;&#48;&commat;&#105;&#109;&#112;&#101;&#114;&#105;&#97;&#108;&period;&#97;&#99;&period;&#117;&#107;">dt10<!--><!-->@<!--><!-->imperial.ac.uk</a>)  
+    Electrical Engineering  
+    *Imperial College London*  
+    +44 (0)2075 946303  
+
+<hr/>
