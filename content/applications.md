@@ -78,7 +78,7 @@ This project will investigate suitable models for real-time management of an asy
 
 Event-based processing is a completely novel kind of computation technique, which bears little or no resemblance to Turing's original concept of sixty years ago. One of the triumphs of the technique is to be able to simulate the behaviour of massive aggregates of neurons, on a scale and at a speed unattainable with conventional machines. The headline goal is to be able to simulate the behaviour of a billion neurons _in real time_, using around a million conventional cores. As neural ensembles become ever more complex, amongst the technical challenges facing the human experimenter is that of interpreting the output: a billion time histories is a formidable mass of data to mine. Received neuroscience wisdom says that the best way to study the high-level behaviour of a large neural ensemble is to embed it in a virtual reality environment, where complex emergent behaviour can be (relatively) easily identified and manipulated. To achieve this requires that the simulation is capable of reacting to stimuli in real time, and this is just what event-based processing can do.
 
-Artificial environments provide the _de facto_ technique for neural development studies, supporting a controlled environment for real-time interaction with 
+Artificial environments provide the _de facto_ technique for neural development studies, supporting a controlled environment for real-time interaction with
 * (Models of) primitive organisms hosted by the POETS engine
 * (Models of) primitive organisms hosted on conventional machines
 * Human operators
@@ -119,7 +119,7 @@ The objective of this project is to investigate and assess the applicability of 
 
 ##### Programming Models and Languages for Graph Description and Manipulation
 
-<center><img style="width:300pt" src="/static/img/misc/03.png" /></center>
+<center><img style="width:200pt" src="/static/img/misc/03.png" /></center>
 
 This project is about developing new programming models and languages for prototyping POETS applications that can comprise millions of nodes interacting by short messages with their neighbours. Compilation of POETS programs can therefore be formalised as construction of application graphs from high-level descriptions written in popular programming languages and frameworks, and subsequent optimisation of these graphs aiming to improve their mapping to the underlying POETS hardware, generating efficient initialisation, communication, termination and data exfiltration protocols, as well as visualising the computation process for debugging and demonstration purposes. A side illustration shows a classic distributed matrix multiplication algorithm mapped to a POETS computation network.
 
@@ -157,3 +157,71 @@ Distributed systems such as POETS can outperform conventional shared-memory arch
 
 <hr/>
 
+##### Detecting Financial Fraud
+
+The global financial system facilitates billions of transactions every day, in a spectrum of value and complexity. Some proportion of these are fraudulent, and the global financial institutions are locked in a perpetual arms-race with criminals to discover and defeat the illegal movement of financial instruments and assets.
+
+The sheer scale of the transaction body means that anything other than _automatic_ detection is simply unfeasible. One way of approaching this is to view every account on the planet as a node in a graph, and every transaction as a labelled edge within that graph.
+
+A number of problems immediately begin to crystallise: (1) what - exactly - in graph-theoretic terms - _is_ an "illegal transaction" (as opposed, say, to an ill-advised transaction)? and (2) how might we algorithmically _detect_ this? (3) Any such detection has to happen in (near) real time on a dataset that is almost monotonically growing with time - it must be massively scalable. (4) The _acquisition_ of the necessary base data is fraught with confidentiality issues.
+
+One potential approach is to 'inject' into the graph a set of self-replicating _crawlers_ (much like those employed in the World Wide Web to scan web pages) to look for anomalous patterns, both topological and temporal. Whilst there is nothing in this approach that cannot be achieved with conventional compute, the massive parallelism afforded by the POETS architecture allows crawler hits to be reported in minutes - much the same timeframe as a search engine will locate a newly published webpage.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Prof Alex Yakovlev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#108;&#101;&#120;&period;&#121;&#97;&#107;&#111;&#118;&#108;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">alex.yakovlev<!--><!-->@<!--><!-->newcastle.ac.uk</a>) or  
+    *Dr Ashur Rafiev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#115;&#104;&#117;&#114;&period;&#114;&#97;&#102;&#105;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">ashur.rafiev<!--><!-->@<!--><!-->newcastle.ac.uk</a>)  
+    *Newcastle University*  
+    +44 (0)191 208 8184  
+    or  
+    *Dr David Thomas* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#100;&period;&#116;&#104;&#111;&#109;&#97;&#115;&#49;&commat;&#105;&#109;&#112;&#101;&#114;&#105;&#97;&#108;&period;&#97;&#99;&period;&#117;&#107;">d.thomas1<!--><!-->@<!--><!-->imperial.ac.uk</a>)  
+    *Imperial College London*  
+    +44 (0)2075 946303
+
+
+<hr/>
+
+##### Computational Astrophysics
+
+<center><img style="width:300pt" src="/static/img/misc/05.jpg" /><br/>
+<span style="color:#dddddd;font-size:80%"><i>Image: www.pexels.com - copyright-free download</i></span>
+</center>
+
+To (over-)condense many years of research into a single paragraph, in the Big Bang theory, a massive explosion many billions of years ago effectively threw out all the matter that comprises the Universe as we see it today. Most of the material was in the form of radiation, which was expelled from a small region with incredibly high energies, and has been condensing ever since. Gravitational attraction has slowed this process, and local perturbations give rise to non-uniform structure definition, resolving ultimately into stars, clusters and superclusters (planets are regarded as noise at this scale).
+
+From a starting position of a galaxy as a rotating ball of gas, structure emerges: spiral, elliptical, diffuse, thin-disk galaxies all evolved from the same thermodynamic relaxation, yet have massively different properties. How? Why? This is a massive research field, and one which traditionally consumes vast amounts of compute resource. The aim of the project here is not to advance the understanding of galaxy formation _per se_, but to accelerate the computational modelling of the process.
+
+The event-based approach involves "tiling space" with a mesh of volumes, each volume the responsibility of a single POETS core. Stars within a space tile are handled by the appropriate core, and stars moving from tile to tile are "handed over" - much in the same way a mobile phone network hands over responsibility for a call when a user moves between coverage cells. The numerical difficulty with this approach lies in the accurate transmission of long-range forces (gravity) across the core mesh. It is this aspect that will dominate the research activities of this project.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Dr Tom Kazmierski* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#116;&#106;&#107;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">tjk<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
+    or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
+    Department of Electronics and Computer Science  
+    *University of Southampton*  
+    Hampshire SO17 1BJ  
+    +44 (0)2380 593374
+
+<hr/>
+
+##### Protein Ghost Recognition Using Deep Learning
+
+<center><img style="width:300pt" src="/static/img/misc/06.jpg" /></center>
+
+The technology lends itself elegantly to a variety of neural network-type applications; one such area is that of ghost pattern recognition.
+
+Cell biology - at the molecular level - underpins much research into biological processes and disease pathways. Understanding how pathogens interact with proteins embedded in a cell surface is critical to designing any kind of defence, and to do this we have to know the structure of all the proteins involved. These will typically be large, chain-like organic molecules. The traditional method of establishing the structure of any large, complex molecule is to purify a sample of it, crystallise it, and illuminate it with high-intensity beams of X-rays or neutrons. The resulting diffraction pattern provides valuable insights to the structure of the molecule under study (this was how the spiral structure of DNA was originally discovered). It has long been known that there exists a class of molecules that are permanently disordered - they simply have no crystalline form. The timeliness of this project lies in the fact that researchers are now beginning to realise that this class of disordered molecules is far larger than was previously thought, and a large number of these enigmatic structures have biological relevance. This obviously provides a driver for the elucidation of their structure, but traditionally obtained diffraction patterns are not sufficiently clear for _automatic_ extraction of structural information
+
+This research project will focus on the construction of a neural network - underpinned by POETS technology - that is capable of recognising physical structure from badly-defined diffraction patterns that are incapable of resolution by traditional methods.
+
+* **PhD scholarships available.**  
+    For further details on this project, please contact  
+    *Dr David Thomas* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#100;&period;&#116;&#104;&#111;&#109;&#97;&#115;&#49;&commat;&#105;&#109;&#112;&#101;&#114;&#105;&#97;&#108;&period;&#97;&#99;&period;&#117;&#107;">d.thomas1<!--><!-->@<!--><!-->imperial.ac.uk</a>)  
+    *Imperial College London*  
+    +44 (0)2075 946303  
+    or  
+    *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
+    *University of Southampton*  
+    +44 (0)2380 593374
+
+<hr/>
