@@ -23,3 +23,7 @@ Candidates with an excellent qualification in Computer Engineering, Computer Sci
 <hr/>
 
 [Dowload all projects (PDF)](/uploads/PhDs_1.pdf)
+
+&nbsp;
+
+&nbsp;
