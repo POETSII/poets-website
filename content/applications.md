@@ -250,7 +250,9 @@ SpiNNaker contains within it a novel simulation algorithm, designed to deliver t
 
 ##### Dissipative Particle Dynamics (DPD)
 
-<center><img style="width:300pt" src="/static/img/misc/08.png" /></center>
+<center><img style="width:300pt" src="/static/img/misc/08.png" /><br/>
+<span style="color:#dddddd;font-size:80%"><i>J. Shillcock, Langmuir 2012, 28, 541-547</i></span>
+</center>
 
 Computer simulations of biological and chemical systems are approaching a performance barrier: the computational cost of simulating a physical system scales at least as fast as the cube of its linear dimension. This barrier cannot be crossed by simulating atomic systems for longer because such systems have correlations that span many scales in space and time. New forces emerge on micron length scales that are largely independent of the constituent molecules' precise atomic structure: for example, the thermally excited undulations of membranes, or curvature-induced forces between proteins adsorbed to membranes. A mesoscale simulation technique called DPD - Dissipative Particle Dynamics - predicts how specific molecular details propagate upwards in length scale to influence the behaviour of large (~microns) volumes of matter, without considering each individual atom. This has enabled simulations of important biological phenomena such as bacterial toxin entry into cells during infectious disease. 
 

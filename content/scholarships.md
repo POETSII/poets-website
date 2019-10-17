@@ -17,8 +17,9 @@ Candidates with an excellent qualification in Computer Engineering, Computer Sci
 * [Computational Astrophysics](/applications/#computational-astrophysics)
 * [Protein Ghost Recognition Using Deep Learning](/applications/#protein-ghost-recognition-using-deep-learning)
 * [Real-time Simulation of Large Neural Aggregates](/applications/#real-time-simulation-of-large-neural-aggregates)
+* [Dissipative Particle Dynamics (DPD)](/applications/#dissipative-particle-dynamics-dpd)
+* [Asynchronous Numerical Algorithms](/applications/#asynchronous-numerical-algorithms)
 
-* Dissipative Particle Dynamics (DPD)
-* Asynchronous Numerical Algorithms
+<hr/>
 
 [Dowload all projects (PDF)](/uploads/PhDs_1.pdf)
