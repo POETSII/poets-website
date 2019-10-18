@@ -6,7 +6,7 @@
 
 We are offering PhD Studentships to carry out research in all hardware and software aspects of POETS project. A collaborative approach to research will be vital within POETS and candidates will be expected to work closely with researchers from partner institutions, which may include visits to industrial collaborators sites. The studentships offered include tuition fees and an annual stipend (currently £15,009) for eligible students.
 
-Applicants are invited who possess (or expect to obtain) a good honours degree (or equivalent) in an engineering, science or mathematics discipline. Full scholarships are available for UK/EU citizens. You are encouraged in the first instance to send your CV and a short (1-page max) description of your academic achievements, expertise and interests in the many-core systems or distributed computation to a relevant email, which can be found with project details: https://poets-project.org/Studentships/
+Applicants are invited who possess (or expect to obtain) a good honours degree (or equivalent) in an engineering, science or mathematics discipline. Full scholarships are available for UK/EU citizens. You are encouraged in the first instance to send your CV and a short (1-page max) description of your academic achievements, expertise and interests in the many-core systems or distributed computation to a relevant email, which can be found with [project details]([https://poets-project.org/Studentships/)
 
 ---
 
