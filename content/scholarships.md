@@ -1,6 +1,6 @@
-% Scholarships
+% Studentships
 
-#### Scholarships
+#### Studentships
 
 We are offering PhD Studentships to carry out research in all hardware and software aspects of POETS project. A collaborative approach to research will be vital within POETS and candidates will be expected to work closely with researchers from partner institutions, this will include visits to industrial collaborators sites and internships. The studentships offered include tuition fees and an annual stipend.
 
