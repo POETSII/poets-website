@@ -2,7 +2,7 @@
 
 #### Applications
 
-POETS - Partial Ordered Event Triggered Systems - technology is based on the idea of an extremely large number (millions) of small cores, embedded in a fast, bespoke, hardware, parallel communications infrastructure - the _core mesh_. Inter-core communication is asynchronous, and effected by small, fixed size, hardware data packets (a few bytes) - _messages_. For an important set of industrial problems, POETS architectures are capable of delivering _orders of magnitude speed increases_ at significantly lower power levels. These projects are about accelerating applications using POETS.
+POETS - Partial Ordered Event Triggered Systems - technology is based on the idea of an extremely large number (millions) of small cores, embedded in a fast, bespoke, hardware, parallel communications infrastructure - the _core mesh_. Inter-core communication is asynchronous, and effected by small, fixed size, hardware data packets (a few bytes) - _messages_. For an important set of industrial problems, POETS architectures are capable of delivering _orders of magnitude speed increases_ at significantly lower power levels. 
 
 <hr/>
 
