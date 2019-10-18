@@ -159,6 +159,7 @@ Distributed systems such as POETS can outperform conventional shared-memory arch
 <hr/>
 
 ##### Detecting Financial Fraud
+<center><img style="width:300pt" src="/static/img/misc/Fin New image.jpg" /></center>
 
 The global financial system facilitates billions of transactions every day, in a spectrum of value and complexity. Some proportion of these are fraudulent, and the global financial institutions are locked in a perpetual arms-race with criminals to discover and defeat the illegal movement of financial instruments and assets.
 
