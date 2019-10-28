@@ -24,7 +24,7 @@ Applicants are invited who possess (or expect to obtain) a good honours degree (
 
 <hr/>
 
-[Dowload all projects (PDF)](/uploads/PhDs_1.pdf)
+[Download all projects (PDF)](/uploads/PhDs_1.pdf)
 
 &nbsp;
 
