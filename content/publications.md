@@ -22,7 +22,7 @@ Programmable Logic and Applications.
 </p>
 
 
-* <p>Brown, Andrew, Vousden, Mark, Rast, Alexander, Bragg, Graeme McLachlan, Thomas, David, Beaumont, Jonny, Naylor, Matthew and Mokhov, Andrey (2019) POETS: Distributed event-based computing - scaling behaviour. The International Conference on Parallel Computing, Prague, Czech Republic. 10 - 13 Sep 2019. (In Press) [[paper]https://eprints.soton.ac.uk/432964/</p>
+* <p>Brown, Andrew, Vousden, Mark, Rast, Alexander, Bragg, Graeme McLachlan, Thomas, David, Beaumont, Jonny, Naylor, Matthew and Mokhov, Andrey (2019) POETS: Distributed event-based computing - scaling behaviour. The International Conference on Parallel Computing, Prague, Czech Republic. 10 - 13 Sep 2019. (In Press) [[paper]https://eprints.soton.ac.uk/432964/]</p>
 
 
 ##### Languages and Models
