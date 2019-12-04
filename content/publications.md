@@ -6,11 +6,11 @@
 
 * <p>Andrew Brown, John Chad, Raihaan Kamarudin, Kier Dugan, Stephen Furber.
 <i>SpiNNaker: Event-based simulation &ndash; quantitative behaviour</i>. IEEE
-Transactions on Multi-Scale Computing Systems, 2017. In Press.
+Transactions on Multi-Scale Computing Systems, 2017. 
 [[paper](https://poets-project.org/download/spinnaker-tmscs-2017.pdf)]
 </p>
 
-* <p>Andrew Brown, David Thomas, Jeff Reeve, Ghaith Tarawneh, Alessandro de Gennaro, Andrey Mokhov, Matthew Naylor, Tom Kazmierski. <i>Distributed Event-based Computing</i>. ParCo conference, 2017. In Press.
+* <p>Andrew Brown, David Thomas, Jeff Reeve, Ghaith Tarawneh, Alessandro de Gennaro, Andrey Mokhov, Matthew Naylor, Tom Kazmierski. <i>Distributed Event-based Computing</i>. ParCo conference, 2017. 
 [[paper](https://github.com/tuura/papers/blob/master/parco-2017/distributed-event-based-computing.pdf)]
 </p>
 
@@ -20,6 +20,10 @@ Programmable Logic and Applications.
 [[paper](https://github.com/POETSII/tinsel/blob/master/doc/fpl-2019-paper.pdf),
 [repo](https://github.com/POETSII/tinsel/)]
 </p>
+
+
+* <p>Brown, Andrew, Vousden, Mark, Rast, Alexander, Bragg, Graeme McLachlan, Thomas, David, Beaumont, Jonny, Naylor, Matthew and Mokhov, Andrey (2019) POETS: Distributed event-based computing - scaling behaviour. The International Conference on Parallel Computing, Prague, Czech Republic. 10 - 13 Sep 2019. (In Press) [[paper]https://eprints.soton.ac.uk/432964/</p>
+
 
 ##### Languages and Models
 
@@ -47,6 +51,6 @@ If more items are added to the list then they can be removed. -->
 [[paper](https://poets-project.org/download/PID4691439.pdf),
 [slides](https://black-extruder.net/talks/async_2017)]
 
-* Łukasz Mikulski, Andrey Mokhov, Marcin Piatkowski. _Reduction of Order Structures_. International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. In Press.
+* Łukasz Mikulski, Andrey Mokhov, Marcin Piatkowski. _Reduction of Order Structures_. International Conference on Application of Concurrency to System Design (ACSD 2017), IEEE. 
 [[paper](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures.pdf),
 [slides](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures-slides.pdf)]
