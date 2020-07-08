@@ -15,15 +15,22 @@ Transactions on Multi-Scale Computing Systems, 2017.
 </p>
 
 * <p>Matthew Naylor, Simon W. Moore, David Thomas. <i>Tinsel: a manythread
-overlay for FPGA clusters</i>. 2019 International Conference on Field
-Programmable Logic and Applications.
+overlay for FPGA clusters</i>. IEEE International Conference on Field
+Programmable Logic and Applications (FPL 2019).
 [[paper](https://github.com/POETSII/tinsel/blob/master/doc/fpl-2019-paper.pdf),
 [repo](https://github.com/POETSII/tinsel/)]
 </p>
 
-
 * <p>Brown, Andrew, Vousden, Mark, Rast, Alexander, Bragg, Graeme McLachlan, Thomas, David, Beaumont, Jonny, Naylor, Matthew and Mokhov, Andrey (2019) POETS: Distributed event-based computing - scaling behaviour. The International Conference on Parallel Computing, Prague, Czech Republic. 10 - 13 Sep 2019. (In Press) [[paper](https://eprints.soton.ac.uk/432964/)] </p>
 
+* <p>Matthew Naylor, Simon W. Moore, Andrey Mokhov, David Thomas,
+Jonathan R. Beaumont, Shane Fleming, A. Theodore Markettos, Thomas
+Bytheway, and Andrew Brown. <i>Termination detection for fine-grained
+message-passing architectures</i>. IEEE International Conference on 
+Application-specific Systems, Architectures, and Processors (ASAP 2020)
+[[paper](https://github.com/POETSII/tinsel/blob/master/doc/asap-2020-paper.pdf),
+[repo](https://github.com/POETSII/tinsel/)]
+</p>
 
 ##### Languages and Models
 
