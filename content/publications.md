@@ -29,6 +29,7 @@ Bytheway, and Andrew Brown. <i>Termination detection for fine-grained
 message-passing architectures</i>. IEEE International Conference on 
 Application-specific Systems, Architectures, and Processors (ASAP 2020)
 [[paper](https://github.com/POETSII/tinsel/blob/master/doc/asap-2020-paper.pdf),
+[video](https://sms.cam.ac.uk/media/3258486),
 [repo](https://github.com/POETSII/tinsel/)]
 </p>
 
