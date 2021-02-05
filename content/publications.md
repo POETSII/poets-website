@@ -14,24 +14,33 @@ Transactions on Multi-Scale Computing Systems, 2017.
 [[paper](https://github.com/tuura/papers/blob/master/parco-2017/distributed-event-based-computing.pdf)]
 </p>
 
+* <p>Brown, Andrew, Vousden, Mark, Rast, Alexander, Bragg, Graeme McLachlan, Thomas, David, Beaumont, Jonny, Naylor, Matthew and Mokhov, Andrey (2019) POETS: Distributed event-based computing - scaling behaviour. The International Conference on Parallel Computing, Prague, Czech Republic. 10 - 13 Sep 2019. (In Press) [[paper](https://eprints.soton.ac.uk/432964/)] </p>
+
 * <p>Matthew Naylor, Simon W. Moore, David Thomas. <i>Tinsel: a manythread
 overlay for FPGA clusters</i>. IEEE International Conference on Field
 Programmable Logic and Applications (FPL 2019).
-[[paper](https://github.com/POETSII/tinsel/blob/master/doc/fpl-2019-paper.pdf),
+[[paper](https://www.repository.cam.ac.uk/handle/1810/294801),
 [repo](https://github.com/POETSII/tinsel/)]
 </p>
-
-* <p>Brown, Andrew, Vousden, Mark, Rast, Alexander, Bragg, Graeme McLachlan, Thomas, David, Beaumont, Jonny, Naylor, Matthew and Mokhov, Andrey (2019) POETS: Distributed event-based computing - scaling behaviour. The International Conference on Parallel Computing, Prague, Czech Republic. 10 - 13 Sep 2019. (In Press) [[paper](https://eprints.soton.ac.uk/432964/)] </p>
 
 * <p>Matthew Naylor, Simon W. Moore, Andrey Mokhov, David Thomas,
 Jonathan R. Beaumont, Shane Fleming, A. Theodore Markettos, Thomas
 Bytheway, and Andrew Brown. <i>Termination detection for fine-grained
 message-passing architectures</i>. IEEE International Conference on 
-Application-specific Systems, Architectures, and Processors (ASAP 2020)
-[[paper](https://github.com/POETSII/tinsel/blob/master/doc/asap-2020-paper.pdf),
+Application-specific Systems, Architectures, and Processors (ASAP 2020).
+[[paper](https://www.repository.cam.ac.uk/handle/1810/307470),
 [video](https://sms.cam.ac.uk/media/3258486),
 [repo](https://github.com/POETSII/tinsel/)]
 </p>
+
+* <p>Matthew Naylor, Simon W. Moore, David Thomas,
+Jonathan R. Beaumont, Shane Fleming, Mark Vousden, A. Theodore
+Markettos, Thomas Bytheway, and Andrew Brown. <i>General hardware
+multicasting for fine-grained message-passing architectures</i>.
+Euromicro International Conference on Parallel, Distributed and
+Network-based processing (PDP 2021).
+[[paper](https://www.repository.cam.ac.uk/handle/1810/317181),
+[repo](https://github.com/POETSII/tinsel/)] </p>
 
 ##### Languages and Models
 
