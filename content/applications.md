@@ -16,8 +16,7 @@ Regarding data storage in computers, hard drives magnetise regions of the space 
 
 The objective of this project is to develop an application for POETS to perform micromagnetic simulations of these potential data carriers (skyrmions and magnons), which in turn will inform the design of spintronic devices.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr Mark Vousden* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#109;&period;&#118;&#111;&#117;&#115;&#100;&#101;&#110;&commat;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">m.vousden<!--><!-->@<!--><!-->soton.ac.uk</a>)  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
     Department of Electronics and Computer Science  
@@ -38,8 +37,7 @@ Nonetheless, determining how to map such problems to available hardware is still
 Such tools are of immediate value in industrial applications ranging from computational chemistry to fluid dynamics. There is the potential to reduce the compute times in the large-scale simulations run in such industries from days to minutes, using much more economical hardware than the supercomputers in common use for such problems. Furthermore, by enabling such rapid, relatively lightweight simulation cycles, it becomes possible to run multiple parameter sweeps in high-dimensional spaces, in parallel simply by mapping different parameter subspaces to different processors. This capability is particularly attractive e.g. for automated drug discovery and economic modelling.
 This research project will develop effective mapping (hardware place-and-route) algorithms for graph-based problems. The project will work with a generic, massively parallel hardware substrate being developed by the project partners. The goal will be not merely to discover effective point solutions, but to determine what general principles for hardware mapping can be derived, so that parallel programs can be designed using a structured approach rather than through a collection of heuristics and ad-hoc techniques.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr Mark Vousden* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#109;&period;&#118;&#111;&#117;&#115;&#100;&#101;&#110;&commat;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">m.vousden<!--><!-->@<!--><!-->soton.ac.uk</a>),  
     *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
@@ -60,8 +58,7 @@ Such management tools may be useful not only for integrated asynchronous hardwar
 
 This project will investigate suitable models for real-time management of an asynchronous parallel hardware platform.  The project will work with a generic, massively parallel hardware substrate being developed by collaborators at the University of Cambridge and with configuration tools already under development at Southampton. The goal will be to determine what methods are suitable for managing asynchronous systems in real time and to demonstrate effective techniques through the implementation of a management layer for the hardware.
  
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr Mark Vousden* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#109;&period;&#118;&#111;&#117;&#115;&#100;&#101;&#110;&commat;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">m.vousden<!--><!-->@<!--><!-->soton.ac.uk</a>),  
     *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
@@ -86,8 +83,7 @@ Artificial environments provide the _de facto_ technique for neural development 
 
 This project will focus in the design and interfacing of a virtual environment, to support neurobiological development studies of primitive creatures within the simulation environment.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
     Department of Electronics and Computer Science  
@@ -107,8 +103,7 @@ While the POETS architecture is intended to reduce power through its design, the
 
 The objective of this project is to investigate and assess the applicability of existing state-of-the art system optimisation methods to POETS-like systems, which in turn will inform the design of novel optimisation methods.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
     Department of Electronics and Computer Science  
@@ -126,8 +121,7 @@ This project is about developing new programming models and languages for protot
 
 There is a range of possible research topics within this project that will be appealing to students with different backgrounds. Students interested in distributed systems will be able to apply their knowledge for solving real-life problems from our industrial project partners, e.g. _accelerating computational drug discovery_, on a newly developed distributed architecture. For mathematically inclined students, the project provides an opportunity to be involved [in the ongoing work](https://github.com/snowleopard/alga) on the _algebra of graphs_, which is used as the underlying language for describing and manipulating graphs in our current implementation. Last but not least, students interested in formal methods will be able to contribute by _formally proving key properties of the compiler backend_, such as correctness and termination of generated code.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Prof Alex Yakovlev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#108;&#101;&#120;&period;&#121;&#97;&#107;&#111;&#118;&#108;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">alex.yakovlev<!--><!-->@<!--><!-->newcastle.ac.uk</a>) or  
     *Dr Ashur Rafiev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#115;&#104;&#117;&#114;&period;&#114;&#97;&#102;&#105;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">ashur.rafiev<!--><!-->@<!--><!-->newcastle.ac.uk</a>)  
     School of Engineering,  
@@ -147,8 +141,7 @@ This research project will investigate software programming models, formalisms, 
 
 Distributed systems such as POETS can outperform conventional shared-memory architectures in terms of scalability but require novel software abstractions that facilitate bottom-up re-thinking of problems and adapting them to a new computing medium. This is a rich and exciting research field with potentially significant impact on many real-world applications. The successful candidate will develop expertise in distributed computing as well as one or several network science application areas such as computational drug discovery and fraud detection. This studentship also provides an opportunity to interact with other research teams working on various layers of the POETS stack as well as a number of industrial partners.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Prof Alex Yakovlev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#108;&#101;&#120;&period;&#121;&#97;&#107;&#111;&#118;&#108;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">alex.yakovlev<!--><!-->@<!--><!-->newcastle.ac.uk</a>) or  
     *Dr Ashur Rafiev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#115;&#104;&#117;&#114;&period;&#114;&#97;&#102;&#105;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">ashur.rafiev<!--><!-->@<!--><!-->newcastle.ac.uk</a>)  
     School of Engineering,  
@@ -169,8 +162,7 @@ A number of problems immediately begin to crystallise: (1) what - exactly - in g
 
 One potential approach is to 'inject' into the graph a set of self-replicating _crawlers_ (much like those employed in the World Wide Web to scan web pages) to look for anomalous patterns, both topological and temporal. Whilst there is nothing in this approach that cannot be achieved with conventional compute, the massive parallelism afforded by the POETS architecture allows crawler hits to be reported in minutes - much the same timeframe as a search engine will locate a newly published webpage.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Prof Alex Yakovlev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#108;&#101;&#120;&period;&#121;&#97;&#107;&#111;&#118;&#108;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">alex.yakovlev<!--><!-->@<!--><!-->newcastle.ac.uk</a>) or  
     *Dr Ashur Rafiev* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#115;&#104;&#117;&#114;&period;&#114;&#97;&#102;&#105;&#101;&#118;&commat;&#110;&#101;&#119;&#99;&#97;&#115;&#116;&#108;&#101;&period;&#97;&#99;&period;&#117;&#107;">ashur.rafiev<!--><!-->@<!--><!-->newcastle.ac.uk</a>)  
     *Newcastle University*  
@@ -195,8 +187,7 @@ From a starting position of a galaxy as a rotating ball of gas, structure emerge
 
 The event-based approach involves "tiling space" with a mesh of volumes, each volume the responsibility of a single POETS core. Stars within a space tile are handled by the appropriate core, and stars moving from tile to tile are "handed over" - much in the same way a mobile phone network hands over responsibility for a call when a user moves between coverage cells. The numerical difficulty with this approach lies in the accurate transmission of long-range forces (gravity) across the core mesh. It is this aspect that will dominate the research activities of this project.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr Tom Kazmierski* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#116;&#106;&#107;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">tjk<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
     Department of Electronics and Computer Science  
@@ -216,8 +207,7 @@ Cell biology - at the molecular level - underpins much research into biological 
 
 This research project will focus on the construction of a neural network - underpinned by POETS technology - that is capable of recognising physical structure from badly-defined diffraction patterns that are incapable of resolution by traditional methods.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr David Thomas* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#100;&period;&#116;&#104;&#111;&#109;&#97;&#115;&#49;&commat;&#105;&#109;&#112;&#101;&#114;&#105;&#97;&#108;&period;&#97;&#99;&period;&#117;&#107;">d.thomas1<!--><!-->@<!--><!-->imperial.ac.uk</a>)  
     *Imperial College London*  
     +44 (0)2075 946303  
@@ -238,8 +228,7 @@ _SpiNNaker_ (Spiking Neural Network Architecture) is a specialised computing eng
 
 SpiNNaker contains within it a novel simulation algorithm, designed to deliver the response of large neural systems in real time. It interacts with the specialised hardware of SpiNNaker in ways that make it unsuitable for porting to conventional architectures, even if this were a desirable thing to do. However, POETS is _derived_ from SpiNNaker - in the sense that both operate by the transmission of small packets - and the purpose of this project is to take the SpiNNaker simulation algorithm and transfer it to the POETS engine, with a view to comparing the performance of the two systems and perhaps being able to simulate even larger problems.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr Graeme Bragg* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#103;&#109;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">gmb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>),  
     or *Prof Andrew Brown* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#97;&#100;&#98;&commat;&#101;&#99;&#115;&period;&#115;&#111;&#116;&#111;&#110;&period;&#97;&#99;&period;&#117;&#107;">adb<!--><!-->@<!--><!-->ecs.soton.ac.uk</a>)  
     Department of Electronics and Computer Science  
@@ -269,8 +258,7 @@ These three components are scalable: if we want more accuracy, or to analyse a b
 
 Simulations of biological matter typically divide 3D space into a grid of small cubes and assign each cube to one core: each core then integrates the equations of motion for all the particles in its cube. All communication between cubes is handled by passing messages containing particle positions, velocities and forces. In a conventional supercomputer simulation this method is limited by the high delay of message passing, rather than just the compute time. The system speedup is therefore limited by the compute/messaging ratio of the processors. POETS breaks through this limitation in two ways: (1) by reducing each message to a small fixed size, with a very low message passing delay, and (2) dividing the volume of biological matter so finely such that each cube contains only a few atoms or molecules. The local computational cost per core is thus small and only one or two messages must be exchanged per core-pair to advance the simulation - all the cores operate in parallel. By exploiting high speed messaging we can reduce the compute costs, which translate into much larger systems eing simulated for longer, in a shorter time period.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr David Thomas* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#100;&period;&#116;&#104;&#111;&#109;&#97;&#115;&#49;&commat;&#105;&#109;&#112;&#101;&#114;&#105;&#97;&#108;&period;&#97;&#99;&period;&#117;&#107;">d.thomas1<!--><!-->@<!--><!-->imperial.ac.uk</a>)  
     *Imperial College London*  
     +44 (0)2075 946303  
@@ -291,8 +279,7 @@ Numerical methods are widely used in science and industry to provide approximati
 
 POETS offers the chance to come up with new algorithms that exploit the asynchronous nature of computers, and avoid the traditional reliance on synchronisation. The figure in the top-right shows a finite-element simulation of an airfoil, which was run on POETS using an algorithm with no synchronisation, but which still relies on discrete time steps from _t_ to _t_+1. However, there is also huge scope for numerical methods which directly incorporate asynchrony at the lowest level, and can exploit the inherently un-ordered and un-predictable nature of modern large-scale distributed systems. POETS is a great test-bed for this type of research, allowing theoretical ideas to actually be tested in real-world systems. This research area would be ideal both for compute scientists and engineers interesting in algorithmic research, and also physicists or chemists who were interested in exploring the computational side of their field. This studentship also provides an opportunity to interact with other research teams working on various layers of the POETS stack as well as a number of industrial partners.
 
-* **Competitive PhD scholarships available for eligible UK/EU students.**  
-    For further details on this project, please contact  
+* For further details on this project, please contact  
     *Dr David Thomas* (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#100;&#116;&#49;&#48;&commat;&#105;&#109;&#112;&#101;&#114;&#105;&#97;&#108;&period;&#97;&#99;&period;&#117;&#107;">dt10<!--><!-->@<!--><!-->imperial.ac.uk</a>)  
     Electrical Engineering  
     *Imperial College London*  
