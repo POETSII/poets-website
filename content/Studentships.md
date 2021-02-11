@@ -4,9 +4,9 @@
 
 POETS - Partial Ordered Event Triggered Systems - technology is based on the idea of an extremely large number (millions) of small cores, embedded in a fast, bespoke, hardware, parallel communications infrastructure - the core mesh. Inter-core communication is asynchronous, and effected by small, fixed size, hardware data packets (a few bytes) - messages. For an important set of industrial problems, POETS architectures are capable of delivering orders of magnitude speed increases at significantly lower power levels. 
 
-We are offering PhD Studentships to carry out research in all hardware and software aspects of POETS project. A collaborative approach to research will be vital within POETS and candidates will be expected to work closely with researchers from partner institutions, which may include visits to industrial collaborators sites. The competitive studentships offered include tuition fees and an annual stipend (currently £15,009) for eligible UK/EU students.
+We are inviting PhD applications to carry out research in all hardware and software aspects of POETS project. A collaborative approach to research will be vital within POETS and candidates will be expected to work closely with researchers from partner institutions, which may include visits to industrial collaborators sites.
 
-Applicants are invited who possess (or expect to obtain) a good honours degree (or equivalent) in an engineering, science or mathematics discipline. Full scholarships are competitively available for UK/EU citizens. You are encouraged in the first instance to send your CV and a short (1-page max) description of your academic achievements, expertise and interests in the many-core systems or distributed computation to a relevant email, which can be found in project details:
+Applicants are invited who possess (or expect to obtain) a good honours degree (or equivalent) in an engineering, science or mathematics discipline. You are encouraged in the first instance to send your CV and a short (1-page max) description of your academic achievements, expertise and interests in the many-core systems or distributed computation to a relevant email, which can be found in project details:
 
 * [Event-based Micromagnetic Simulation of Spintronic Devices](/applications/#event-based-micromagnetic-simulation-of-spintronic-devices)
 * [Efficient Application Mapping for Massively Parallel Hardware](/applications/#efficient-application-mapping-for-massively-parallel-hardware)
@@ -24,7 +24,7 @@ Applicants are invited who possess (or expect to obtain) a good honours degree (
 
 <hr/>
 
-[Download all projects (PDF)](/uploads/PhDs_1.pdf)
+[Download all projects (PDF)](/download/PhDsv2.pdf)
 
 &nbsp;
 
