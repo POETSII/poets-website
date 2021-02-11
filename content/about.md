@@ -18,4 +18,7 @@ topology on the core graph, but a thin (hardware) layer on top of the cores
 allows the user to virtualise an arbitrary connectivity graph on top of the
 physical one. Once this is done, the mapping of problem domain to processor
 mesh follows naturally.</p>
+
+<p>For more information about the POETS project, please download the
+[POETS Project Partner Precis document](/download/poets-project-partner-precis.pdf).</p>
 </center>
