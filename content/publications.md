@@ -11,6 +11,7 @@ multicasting for fine-grained message-passing architectures</i>.
 Euromicro International Conference on Parallel, Distributed and
 Network-based processing (PDP 2021).
 [[paper](https://www.repository.cam.ac.uk/handle/1810/317181),
+[video](https://sms.cam.ac.uk/media/3426946),
 [repo](https://github.com/POETSII/tinsel/)]
 
 * Mahyar Shahsavari, Jonathan Beaumont, David Thomas, and Andrew D. Brown, <i>POETS: A Parallel Cluster Architecture for Spiking Neural Network</i>, International Journal of Machine Learning and Computing vol. 11, no. 4, pp. 281-285, 2021. DOI: 10.18178/ijmlc.2021.11.4.1048 [[link](http://www.ijmlc.org/index.php?m=content&c=index&a=show&catid=115&id=1233)]
