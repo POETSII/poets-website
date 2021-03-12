@@ -6,7 +6,7 @@ from fabric.contrib.files import exists
 
 env.host_string    = "tuura"
 env.use_ssh_config = True
-DIR                = "/home/gtarawneh/test.org/www"
+DIR                = "/home/gtarawneh/poets-project.org/www"
 
 def deploy():
     local("make")
