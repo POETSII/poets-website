@@ -16,6 +16,11 @@ Network-based processing (PDP 2021).
 
 * Mahyar Shahsavari, Jonathan Beaumont, David Thomas, and Andrew D. Brown, <i>POETS: A Parallel Cluster Architecture for Spiking Neural Network</i>, International Journal of Machine Learning and Computing vol. 11, no. 4, pp. 281-285, 2021. DOI: 10.18178/ijmlc.2021.11.4.1048 [[link](http://www.ijmlc.org/index.php?m=content&c=index&a=show&catid=115&id=1233)]
 
+* Tim Todman, David Thomas, Wayne Luk.
+<i>Exploring performance enhancement of event-driven processor networks</i>.
+International Conference on Field-Programmable Technology, 2020.
+[[paper](https://poets-project.org/download/2020008330.pdf)]
+
 * Matthew Naylor, Simon W. Moore, Andrey Mokhov, David Thomas,
 Jonathan R. Beaumont, Shane Fleming, A. Theodore Markettos, Thomas
 Bytheway, and Andrew Brown. <i>Termination detection for fine-grained
