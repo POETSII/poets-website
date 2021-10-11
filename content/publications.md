@@ -4,6 +4,8 @@
 
 ##### Architecture
 
+* Tim Todman and Wayne Luk. <i>Custom enhancements to networked processor templates</i>, 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2021, pp. 224-229, DOI: 10.1109/ISVLSI51109.2021.00049 [[link](https://doi.org/10.1109/ISVLSI51109.2021.00049)]
+
 * Matthew Naylor, Simon W. Moore, David Thomas,
 Jonathan R. Beaumont, Shane Fleming, Mark Vousden, A. Theodore
 Markettos, Thomas Bytheway, and Andrew Brown. <i>General hardware
