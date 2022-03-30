@@ -2,6 +2,13 @@
 
 #### Publications
 
+##### Applications
+
+* J. C. Shillcock, D. B. Thomas, J. R. Beaumont, G. M. Bragg, M. L. Vousden, A. D. Brown, <i>Coupling Bulk Phase Separation of Disordered Proteins to Membrane Domain Formation in Molecular Simulations on a Bespoke Compute Fabric</i>, Membranes, 12(1), 2021, DOI: 10.3390/membranes12010017
+[[link](https://www.mdpi.com/2077-0375/12/1/17)]
+
+* Mahyar Shahsavari, Jonathan Beaumont, David Thomas, and Andrew D. Brown, <i>POETS: A Parallel Cluster Architecture for Spiking Neural Network</i>, International Journal of Machine Learning and Computing vol. 11, no. 4, pp. 281-285, 2021. DOI: 10.18178/ijmlc.2021.11.4.1048 [[link](http://www.ijmlc.org/index.php?m=content&c=index&a=show&catid=115&id=1233)]
+
 ##### Architecture
 
 * Tim Todman and Wayne Luk. <i>Custom enhancements to networked processor templates</i>, 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2021, pp. 224-229, DOI: 10.1109/ISVLSI51109.2021.00049 [[link](https://doi.org/10.1109/ISVLSI51109.2021.00049)]
@@ -15,8 +22,6 @@ Network-based processing (PDP 2021).
 [[paper](https://www.repository.cam.ac.uk/handle/1810/317181),
 [video](https://sms.cam.ac.uk/media/3426946),
 [repo](https://github.com/POETSII/tinsel/)]
-
-* Mahyar Shahsavari, Jonathan Beaumont, David Thomas, and Andrew D. Brown, <i>POETS: A Parallel Cluster Architecture for Spiking Neural Network</i>, International Journal of Machine Learning and Computing vol. 11, no. 4, pp. 281-285, 2021. DOI: 10.18178/ijmlc.2021.11.4.1048 [[link](http://www.ijmlc.org/index.php?m=content&c=index&a=show&catid=115&id=1233)]
 
 * Tim Todman, David Thomas, Wayne Luk.
 <i>Exploring performance enhancement of event-driven processor networks</i>.
