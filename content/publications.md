@@ -58,6 +58,8 @@ Transactions on Multi-Scale Computing Systems, 2017.
 
 ##### Languages and Models
 
+* Ashur Rafiev, Alex Yakovlev, Ghaith Tarawneh, Matthew F. Naylor, Simon W. Moore, David B. Thomas, Graeme M. Bragg, Mark L. Vousden, Andrew D. Brown, <i>Synchronization in graph analysis algorithms on the Partially Ordered Event-Triggered Systems many-core architecture</i>, IET Computers & Digital Techniques, 2022, DOI: 10.1049/cdt2.12041 [[link](https://doi.org/10.1049/cdt2.12041)]
+
 * Koutny M, Pietkiewicz-Koutny M, Yakovlev A. <i>Asynchrony and persistence in reaction systems</i>. (2020) Theoretical Computer Science, [[link](https://www.sciencedirect.com/science/article/abs/pii/S0304397520306873)]
 
 * A. Rast, M. Shahsavari, G. M. Bragg, M. L. Vousden, D. Thomas and A. Brown, <i>A Hardware/Application Overlay Model for Large-Scale Neuromorphic Simulation</i>, 2020 International Joint Conference on Neural Networks (IJCNN), Glasgow, United Kingdom, 2020, pp. 1-9, doi: 10.1109/IJCNN48605.2020.9206708. [[link](https://ieeexplore.ieee.org/abstract/document/9206708)]
