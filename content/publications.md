@@ -4,6 +4,10 @@
 
 ##### Applications
 
+* Ashur Rafiev, Jordan Morris, Fei Xia, Alex Yakovlev, Matthew Naylor, Simon Moore, David Thomas, Graeme Bragg, Mark Vousden, Andrew Brown, <i>Practical Distributed Implementation of Very Large Scale Petri Net Simulations</i>, in: Koutny, M., Kordon, F., Moldt, D. (eds) Transactions on Petri Nets and Other Models of Concurrency XVI. Lecture Notes in Computer Science, vol 13220. Springer, 2022. DOI: 10.1007/978-3-662-65303-6_6 [[link](https://doi.org/10.1007/978-3-662-65303-6_6)]
+
+* Ashur Rafiev, Alex Yakovlev, Ghaith Tarawneh, Matthew F. Naylor, Simon W. Moore, David B. Thomas, Graeme M. Bragg, Mark L. Vousden, Andrew D. Brown <i>Synchronization in graph analysis algorithms on the Partially Ordered Event-Triggered Systems many-core architecture</i>, IET Comput. Digit. Tech. 16(2-3), 71– 88, 2022. DOI: 10.1049/cdt2.12041 [[link](https://doi.org/10.1049/cdt2.12041)]
+
 * J. C. Shillcock, D. B. Thomas, J. R. Beaumont, G. M. Bragg, M. L. Vousden, A. D. Brown, <i>Coupling Bulk Phase Separation of Disordered Proteins to Membrane Domain Formation in Molecular Simulations on a Bespoke Compute Fabric</i>, Membranes, 12(1), 2021, DOI: 10.3390/membranes12010017
 [[link](https://www.mdpi.com/2077-0375/12/1/17)]
 
